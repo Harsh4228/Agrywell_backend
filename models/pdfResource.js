@@ -13,3 +13,4 @@ const pdfResourceSchema = new mongoose.Schema(
 );
 
 module.exports = mongoose.model("PDFResource", pdfResourceSchema);
+ 
