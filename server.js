@@ -28,6 +28,7 @@ app.use("/api/facilities", require("./routes/facilityRoutes"));
 app.use("/api/crop-solutions", require("./routes/cropSolutionRoutes"));
 app.use("/api/videos", videoRoutes);
 app.use("/api/pdfs", require("./routes/pdfRoutes"));
+app.use("/api/contact", require("./routes/contactRoute"));
 
 
 
