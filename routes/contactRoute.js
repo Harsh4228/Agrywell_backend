@@ -21,7 +21,7 @@ router.post("/send", async (req, res) => {
       from: "Contact Form <onboarding@resend.dev>", // Example: "Agriwell <contact@yourdomain.com>"
 
       // This is the email address you want to RECEIVE the messages at
-      to: ["Agriwellresearchandbiotech2024@gmail.com"], // Your email
+      to: ["harshbutani1@gmail.com"], // Your email
 
       subject: subject || "New Contact Form Inquiry",
 
