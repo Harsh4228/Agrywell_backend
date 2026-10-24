@@ -17,9 +17,18 @@ app.set("trust proxy", 1);
 app.disable("x-powered-by");
 
 app.use(helmet({ crossOriginResourcePolicy: { policy: "cross-origin" } }));
+// Dev servers pick the next free port (8080, 8081, 8082…), so any localhost port is allowed outside production.
+const LOCALHOST = /^http:\/\/(localhost|127\.0\.0\.1):\d+$/;
+
+function allowOrigin(origin, callback) {
+  if (!env.CORS_ORIGINS.length) return callback(null, true);
+  const allowed = !origin || env.CORS_ORIGINS.includes(origin) || (!env.isProduction && LOCALHOST.test(origin));
+  callback(null, allowed);
+}
+
 app.use(
   cors({
-    origin: env.CORS_ORIGINS.length ? env.CORS_ORIGINS : true,
+    origin: allowOrigin,
     methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
     maxAge: 86400,

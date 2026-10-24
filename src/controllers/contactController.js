@@ -40,9 +40,15 @@ async function notify(inquiry) {
   return true;
 }
 
+const THANK_YOU = { success: true, message: "Thank you! We'll get back to you shortly." };
+
 exports.submit = asyncHandler(async (req, res) => {
+  const { website, ...fields } = req.body;
+  // Honeypot: the "website" field is hidden from people, so only bots fill it. Pretend it worked.
+  if (website) return res.status(201).json(THANK_YOU);
+
   // The inquiry is persisted first so a mail outage never loses a lead.
-  const inquiry = await Inquiry.create(req.body);
+  const inquiry = await Inquiry.create(fields);
 
   try {
     inquiry.emailDelivered = await notify(inquiry);
@@ -51,5 +57,5 @@ exports.submit = asyncHandler(async (req, res) => {
     console.error("[contact] email delivery threw:", err);
   }
 
-  res.status(201).json({ success: true, message: "Thank you! We'll get back to you shortly." });
+  res.status(201).json(THANK_YOU);
 });

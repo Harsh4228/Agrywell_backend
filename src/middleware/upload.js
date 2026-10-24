@@ -22,8 +22,20 @@ const uploadPdf = multer({
   },
 });
 
+const IMAGE_TYPES = ["image/jpeg", "image/png", "image/webp", "image/avif", "image/gif"];
+
+// Images are kept in memory and streamed straight to Cloudinary.
+const uploadImage = multer({
+  storage: multer.memoryStorage(),
+  limits: { fileSize: env.UPLOAD_MAX_MB * 1024 * 1024, files: 1 },
+  fileFilter: (req, file, cb) => {
+    if (IMAGE_TYPES.includes(file.mimetype)) return cb(null, true);
+    cb(ApiError.badRequest("Only JPG, PNG, WebP, AVIF or GIF images are allowed"));
+  },
+});
+
 function removeUploadedFile(file) {
   if (file && file.path) fs.unlink(file.path, () => {});
 }
 
-module.exports = { UPLOAD_DIR, uploadPdf, removeUploadedFile };
+module.exports = { UPLOAD_DIR, uploadPdf, uploadImage, removeUploadedFile };

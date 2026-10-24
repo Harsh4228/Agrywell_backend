@@ -19,4 +19,11 @@ const contactLimiter = rateLimit({
   message: { success: false, message: "Too many messages sent. Please try again later." },
 });
 
-module.exports = { apiLimiter, loginLimiter, contactLimiter };
+const uploadLimiter = rateLimit({
+  ...base,
+  windowMs: 10 * 60 * 1000,
+  limit: 40,
+  message: { success: false, message: "Too many uploads. Please wait a few minutes." },
+});
+
+module.exports = { apiLimiter, loginLimiter, contactLimiter, uploadLimiter };

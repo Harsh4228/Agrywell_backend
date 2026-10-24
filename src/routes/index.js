@@ -8,6 +8,7 @@ const stats = require("../controllers/statsController");
 const pdfs = require("../controllers/pdfController");
 const contact = require("../controllers/contactController");
 const dashboard = require("../controllers/dashboardController");
+const images = require("../controllers/imageController");
 
 const Product = require("../models/Product");
 const UpcomingProduct = require("../models/UpcomingProduct");
@@ -18,8 +19,8 @@ const Inquiry = require("../models/Inquiry");
 
 const { requireAuth } = require("../middleware/auth");
 const { validateBody, validateObjectId } = require("../middleware/validate");
-const { uploadPdf } = require("../middleware/upload");
-const { loginLimiter, contactLimiter } = require("../middleware/rateLimit");
+const { uploadPdf, uploadImage } = require("../middleware/upload");
+const { loginLimiter, contactLimiter, uploadLimiter } = require("../middleware/rateLimit");
 
 const router = express.Router();
 const id = validateObjectId("id");
@@ -44,6 +45,7 @@ router.get("/health", (req, res) => {
 router.post("/auth/login", loginLimiter, validateBody(schemas.login), auth.login);
 router.get("/auth/me", requireAuth, auth.me);
 router.put("/auth/password", requireAuth, validateBody(schemas.changePassword), auth.changePassword);
+router.post("/auth/logout-all", requireAuth, auth.logoutAll);
 
 // Content resources
 resource("/products", crudFactory(Product, { label: "Product" }), schemas.product);
@@ -63,8 +65,15 @@ router.post("/pdfs", requireAuth, uploadPdf.single("file"), pdfs.create);
 router.put("/pdfs/:id", requireAuth, id, uploadPdf.single("file"), pdfs.update);
 router.delete("/pdfs/:id", requireAuth, id, pdfs.remove);
 
+// Image uploads (Cloudinary) for admin forms
+router.post("/uploads/image", uploadLimiter, requireAuth, uploadImage.single("file"), images.upload);
+
 // Contact form + inquiries inbox
-const inquiries = crudFactory(Inquiry, { label: "Inquiry" });
+const inquiries = crudFactory(Inquiry, {
+  label: "Inquiry",
+  searchFields: ["name", "email", "subject", "message"],
+  filters: { read: crudFactory.boolean },
+});
 router.post("/contact", contactLimiter, validateBody(schemas.contact), contact.submit);
 router.get("/inquiries", requireAuth, inquiries.list);
 router.patch("/inquiries/:id", requireAuth, id, validateBody(schemas.inquiryUpdate), inquiries.update);

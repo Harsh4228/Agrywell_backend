@@ -1,0 +1,193 @@
+[
+ {
+  "name": "Cotton",
+  "icon": "Flower",
+  "photo": "crop-cotton",
+  "description": "Cotton is Gujarat's leading cash crop. Sucking pests in the early stage and bollworms from square formation onward decide most of the yield, so timely, rotated sprays and balanced nutrition at flowering make the biggest difference.",
+  "diseases": ["Whitefly", "Jassids", "Aphids", "Thrips", "Pink bollworm", "American bollworm", "Root rot & wilt", "Grassy weeds"],
+  "solutions": [
+   { "name": "Themox", "type": "Jassids, aphids & thrips — Thiamethoxam 25% WG" },
+   { "name": "Cellmid", "type": "Sucking pests — Imidacloprid 17.8% SL" },
+   { "name": "Polentro", "type": "Whitefly & mites — Diafenthiuron 50% WP" },
+   { "name": "Filten", "type": "Whitefly eggs & nymphs — Pyriproxyfen 10% EC" },
+   { "name": "Amaktron", "type": "Bollworms — Emamectin Benzoate 5% SG" },
+   { "name": "Pronta Super", "type": "Bollworm complex — Profenofos 40% + Cypermethrin 4% EC" },
+   { "name": "Alistin", "type": "Root rot & wilt — Carbendazim 50% WP" },
+   { "name": "Tagon Super", "type": "Grassy weeds — Quizalofop Ethyl 10% EC" },
+   { "name": "Planto Fit 13:0:45", "type": "Boll development — Potassium Nitrate" },
+   { "name": "Fulbahar", "type": "Flowering & square retention" }
+  ],
+  "tips": [
+   "Scout twice a week from 20 days after sowing; spray sucking-pest products only when pest counts cross the economic threshold.",
+   "Rotate insecticides with different modes of action between sprays to slow resistance, especially for whitefly and pink bollworm.",
+   "Use pheromone traps to monitor pink bollworm and destroy rosette flowers early in the season.",
+   "Always read the product label for the registered dose and waiting period before harvest."
+  ]
+ },
+ {
+  "name": "Groundnut",
+  "icon": "Sprout",
+  "photo": "crop-groundnut",
+  "description": "Groundnut is a key kharif oilseed for Saurashtra and Kutch. Early weed control, protection from soil pests like white grub, and preventing tikka leaf spot keep pods well filled and oil content high.",
+  "diseases": ["White grub", "Termites", "Leaf miner", "Thrips & jassids", "Tikka (early & late leaf spot)", "Collar rot", "Broad-leaf & grassy weeds"],
+  "solutions": [
+   { "name": "Cel Ban 20", "type": "White grub & termites — Chlorpyrifos 20% EC" },
+   { "name": "Thioseed", "type": "Seed treatment for early sucking pests — Thiamethoxam 30% FS" },
+   { "name": "Prontalin 30", "type": "Pre-emergence weed control — Pendimethalin 30% EC" },
+   { "name": "Arroshoot", "type": "Post-emergence weed control — Imazethapyr 10% SL" },
+   { "name": "Hitachi", "type": "Grassy & broad-leaf weeds — Quizalofop Ethyl 7.5% + Imazethapyr 15% EC" },
+   { "name": "Tropister", "type": "Tikka leaf spot — Azoxystrobin 18.2% + Difenoconazole 11.4% SC" },
+   { "name": "Antraconal", "type": "Leaf spot — Hexaconazole 5% EC" },
+   { "name": "Shaan", "type": "Collar rot & leaf spot — Carbendazim 12% + Mancozeb 63% WP" },
+   { "name": "Rootwell", "type": "Root growth & nodulation" },
+   { "name": "Planto Fit 12:61:0", "type": "Early growth — Mono Ammonium Phosphate" }
+  ],
+  "tips": [
+   "Treat seed before sowing to protect seedlings from soil-borne diseases and early pests.",
+   "Keep the field weed-free for the first 45 days; weeds compete hardest before pegging.",
+   "Apply gypsum at pegging for better pod filling, and avoid disturbing the soil once pegs enter it.",
+   "Always read the product label for the registered dose and waiting period before harvest."
+  ]
+ },
+ {
+  "name": "Cumin",
+  "icon": "Leaf",
+  "photo": "crop-cumin",
+  "description": "Cumin (jeera) is a high-value rabi spice for North Gujarat. It is very sensitive to blight and powdery mildew in cloudy, humid weather, so protective sprays at the right time protect both yield and seed colour.",
+  "diseases": ["Alternaria blight", "Powdery mildew", "Wilt", "Aphids", "Thrips", "Weeds"],
+  "solutions": [
+   { "name": "Den-M-45", "type": "Blight (protective) — Mancozeb 75% WP" },
+   { "name": "Quret", "type": "Blight — Difenoconazole 25% EC" },
+   { "name": "Tropister", "type": "Blight & mildew — Azoxystrobin 18.2% + Difenoconazole 11.4% SC" },
+   { "name": "Selltron 80", "type": "Powdery mildew — Sulphur 80% WDG" },
+   { "name": "Antraconal", "type": "Powdery mildew — Hexaconazole 5% EC" },
+   { "name": "Alistin", "type": "Wilt — Carbendazim 50% WP" },
+   { "name": "Themox", "type": "Aphids & thrips — Thiamethoxam 25% WG" },
+   { "name": "Prontalin 30", "type": "Pre-emergence weed control — Pendimethalin 30% EC" },
+   { "name": "Benefit Gold", "type": "Plant vigour — humic, amino & seaweed" }
+  ],
+  "tips": [
+   "Start protective blight sprays when the crop is 30–35 days old, and repeat after cloudy or foggy spells.",
+   "Avoid excess irrigation and nitrogen; lush, wet crops are far more prone to blight.",
+   "Follow a crop rotation and avoid sowing cumin in the same field every year to reduce wilt.",
+   "Always read the product label for the registered dose and waiting period before harvest."
+  ]
+ },
+ {
+  "name": "Chilli",
+  "icon": "Carrot",
+  "photo": "crop-chilli",
+  "description": "Chilli needs protection across a long season — thrips and mites curl the leaves, fruit borers damage the pods, and anthracnose (die-back) causes fruit rot. Balanced nutrition reduces flower and fruit drop.",
+  "diseases": ["Thrips", "Mites (leaf curl)", "Fruit borer", "Whitefly", "Anthracnose & die-back", "Powdery mildew", "Damping off", "Flower & fruit drop"],
+  "solutions": [
+   { "name": "Chili Ton", "type": "Thrips — Fipronil 2.92% EC" },
+   { "name": "Chili Master", "type": "Mites & thrips — Abamectin 1.9% EC" },
+   { "name": "Axe Mite", "type": "Mites — Propargite 57% EC" },
+   { "name": "Chili Maker", "type": "Fruit borer — Emamectin Benzoate 1.9% EC" },
+   { "name": "Prontagen", "type": "Fruit borer — Chlorantraniliprole 18.5% SC" },
+   { "name": "Tropister", "type": "Anthracnose & die-back — Azoxystrobin 18.2% + Difenoconazole 11.4% SC" },
+   { "name": "Selltron 80", "type": "Powdery mildew — Sulphur 80% WDG" },
+   { "name": "Meta Max Gold", "type": "Damping off in nursery — Metalaxyl 8% + Mancozeb 64% WP" },
+   { "name": "Flo Fix", "type": "Flower & fruit drop — Alpha Naphthyl Acetic Acid 4.5% SL" },
+   { "name": "Planto Fit 0:52:34", "type": "Flowering & fruit set — Mono-Potassium Phosphate" }
+  ],
+  "tips": [
+   "Raise seedlings in raised nursery beds and treat the nursery against damping off.",
+   "Use blue or yellow sticky traps to monitor thrips and whitefly from transplanting.",
+   "Pick and destroy fruits showing borer damage or anthracnose spots to reduce spread.",
+   "Always read the product label for the registered dose and waiting period before harvest."
+  ]
+ },
+ {
+  "name": "Onion",
+  "icon": "Sprout",
+  "photo": "crop-onion",
+  "description": "Onion is grown in both kharif and rabi. Thrips and purple blotch are the major threats to bulb size, and early weed control is critical because the crop's narrow leaves compete poorly.",
+  "diseases": ["Thrips", "Purple blotch", "Stemphylium blight", "Downy mildew", "Weeds"],
+  "solutions": [
+   { "name": "Pre Jent", "type": "Thrips — Fipronil 18.87% SC" },
+   { "name": "Pronta Phos", "type": "Thrips — Profenofos 50% EC" },
+   { "name": "Tropister", "type": "Purple blotch & Stemphylium — Azoxystrobin 18.2% + Difenoconazole 11.4% SC" },
+   { "name": "Den-M-45", "type": "Purple blotch (protective) — Mancozeb 75% WP" },
+   { "name": "Meta Max Gold", "type": "Downy mildew — Metalaxyl 8% + Mancozeb 64% WP" },
+   { "name": "Oxyil", "type": "Broad-leaf weeds — Oxyfluorfen 23.52% EC" },
+   { "name": "Tagon Super", "type": "Grassy weeds — Quizalofop Ethyl 10% EC" },
+   { "name": "Goodfix", "type": "Better spray coverage on waxy leaves — silicon spreader" },
+   { "name": "Planto Fit 13:0:45", "type": "Bulb development — Potassium Nitrate" }
+  ],
+  "tips": [
+   "Add a spreader to every spray — onion leaves are waxy and sprays run off without one.",
+   "Stop irrigation 10–15 days before harvest for better bulb storage life.",
+   "Cure bulbs in shade for a week before storage to reduce rotting.",
+   "Always read the product label for the registered dose and waiting period before harvest."
+  ]
+ },
+ {
+  "name": "Garlic",
+  "icon": "Sprout",
+  "photo": "crop-garlic",
+  "description": "Garlic is a long-duration rabi crop. Thrips, purple blotch and weeds are the main yield reducers, and steady potassium supply improves clove size and storage quality.",
+  "diseases": ["Thrips", "Purple blotch", "Stemphylium blight", "Weeds"],
+  "solutions": [
+   { "name": "Pre Jent", "type": "Thrips — Fipronil 18.87% SC" },
+   { "name": "Tropister", "type": "Purple blotch & Stemphylium — Azoxystrobin 18.2% + Difenoconazole 11.4% SC" },
+   { "name": "Den-M-45", "type": "Leaf blight (protective) — Mancozeb 75% WP" },
+   { "name": "Oxyil", "type": "Broad-leaf weeds — Oxyfluorfen 23.52% EC" },
+   { "name": "Prontalin 30", "type": "Pre-emergence weed control — Pendimethalin 30% EC" },
+   { "name": "Goodfix", "type": "Better spray coverage — silicon spreader" },
+   { "name": "Planto Fit 13:0:45", "type": "Clove development — Potassium Nitrate" }
+  ],
+  "tips": [
+   "Plant healthy, medium-to-large cloves; small cloves give small bulbs.",
+   "Keep the field weed-free during the first 60 days of growth.",
+   "Harvest when the tops yellow and bend over, then cure the bulbs in shade.",
+   "Always read the product label for the registered dose and waiting period before harvest."
+  ]
+ },
+ {
+  "name": "Tomato",
+  "icon": "Cherry",
+  "photo": "crop-tomato",
+  "description": "Tomato is affected by fruit borer and leaf miner above ground and by early and late blight in humid weather. Whitefly spreads leaf curl virus, so early vector control and regular protective sprays are essential.",
+  "diseases": ["Fruit borer", "Whitefly (leaf curl virus vector)", "Leaf miner", "Early blight", "Late blight", "Damping off"],
+  "solutions": [
+   { "name": "Prontagen", "type": "Fruit borer — Chlorantraniliprole 18.5% SC" },
+   { "name": "Amaktron", "type": "Fruit borer — Emamectin Benzoate 5% SG" },
+   { "name": "Indolax", "type": "Fruit borer — Indoxacarb 14.5% SC" },
+   { "name": "Polentro", "type": "Whitefly — Diafenthiuron 50% WP" },
+   { "name": "Themox", "type": "Whitefly & aphids — Thiamethoxam 25% WG" },
+   { "name": "Tropister", "type": "Early blight — Azoxystrobin 18.2% + Difenoconazole 11.4% SC" },
+   { "name": "Menoxil", "type": "Late blight — Cymoxanil 8% + Mancozeb 64% WP" },
+   { "name": "Dimet", "type": "Late blight — Dimethomorph 50% WP" },
+   { "name": "Meta Max Gold", "type": "Damping off in nursery — Metalaxyl 8% + Mancozeb 64% WP" },
+   { "name": "Planto Fit 19:19:19", "type": "Vegetative growth — N.P.K 19:19:19" }
+  ],
+  "tips": [
+   "Grow nursery under insect-proof net to keep whitefly — and leaf curl virus — away from seedlings.",
+   "Remove and destroy virus-infected plants early to stop the disease spreading.",
+   "Stake plants and prune lower leaves to improve airflow and reduce blight.",
+   "Always read the product label for the registered dose and waiting period before harvest."
+  ]
+ },
+ {
+  "name": "Coriander",
+  "icon": "Leaf",
+  "photo": "crop-coriander",
+  "description": "Coriander is grown for both leaves and seed. Powdery mildew and aphids are the main problems during flowering, and wilt can appear in fields where the crop is repeated.",
+  "diseases": ["Powdery mildew", "Aphids", "Wilt"],
+  "solutions": [
+   { "name": "Selltron 80", "type": "Powdery mildew — Sulphur 80% WDG" },
+   { "name": "Antraconal", "type": "Powdery mildew — Hexaconazole 5% EC" },
+   { "name": "Themox", "type": "Aphids — Thiamethoxam 25% WG" },
+   { "name": "Cellmid", "type": "Aphids — Imidacloprid 17.8% SL" },
+   { "name": "Alistin", "type": "Wilt — Carbendazim 50% WP" },
+   { "name": "Benefit", "type": "Plant vigour — seaweed-based growth promoter" }
+  ],
+  "tips": [
+   "Sow treated seed and avoid waterlogging to keep wilt in check.",
+   "Watch for aphids as flowering begins — that is when populations build fastest.",
+   "For leaf harvest, keep a gap between the last spray and cutting as stated on the label.",
+   "Always read the product label for the registered dose and waiting period before harvest."
+  ]
+ }
+]

@@ -31,6 +31,11 @@ const env = {
   CONTACT_TO_EMAIL: list(process.env.CONTACT_TO_EMAIL || "harshbutani1@gmail.com"),
   CONTACT_FROM_EMAIL: process.env.CONTACT_FROM_EMAIL || "Agriwell Website <onboarding@resend.dev>",
   UPLOAD_MAX_MB: Number(process.env.UPLOAD_MAX_MB) || 10,
+  // Image hosting for admin uploads. Leave empty to disable the image upload endpoint.
+  CLOUDINARY_CLOUD_NAME: process.env.CLOUDINARY_CLOUD_NAME || "",
+  CLOUDINARY_API_KEY: process.env.CLOUDINARY_API_KEY || "",
+  CLOUDINARY_API_SECRET: process.env.CLOUDINARY_API_SECRET || "",
+  CLOUDINARY_FOLDER: process.env.CLOUDINARY_FOLDER || "agriwell",
 };
 
 if (isProduction && env.JWT_SECRET.length < 32) {

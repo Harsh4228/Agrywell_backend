@@ -93,6 +93,8 @@ const contact = z.object({
     .default(""),
   subject: optionalText(200),
   message: requiredText(5000),
+  // Honeypot field (hidden on the website); anything here marks the submission as spam.
+  website: text(200).optional().default(""),
 });
 
 const login = z.object({
@@ -102,7 +104,12 @@ const login = z.object({
 
 const changePassword = z.object({
   currentPassword: z.string().min(1),
-  newPassword: z.string().min(10, "Password must be at least 10 characters").max(200),
+  newPassword: z
+    .string()
+    .min(10, "Password must be at least 10 characters")
+    .max(200)
+    .regex(/[a-z]/i, "Password must include a letter")
+    .regex(/[0-9]/, "Password must include a number"),
 });
 
 const inquiryUpdate = z.object({ read: z.boolean() });

@@ -1,0 +1,3480 @@
+[
+ {
+  "id": "chili-master",
+  "no": 1,
+  "name": "Chili Master",
+  "category": "Insecticides",
+  "tagline": "Abamectin 1.9% EC",
+  "image": "/products/p001.webp",
+  "description": "Chili Master is an Agriwell insecticide based on Abamectin 1.9% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 15 ml / 15 L water. Pack sizes: 15 ml, 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Abamectin 1.9% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "15 ml, 250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15 ml / 15 L water"
+  },
+  "packs": [
+   "15 ml",
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "oxy-phate",
+  "no": 2,
+  "name": "Oxy Phate",
+  "category": "Insecticides",
+  "tagline": "Acephate 75% SP",
+  "image": "/products/p002.webp",
+  "description": "Oxy Phate is an Agriwell insecticide based on Acephate 75% SP, supplied as a soluble powder (SP). Recommended dose: 30-35 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Acephate 75% SP",
+   "Formulation": "Soluble Powder (SP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "30-35 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "printa",
+  "no": 3,
+  "name": "Printa",
+  "category": "Insecticides",
+  "tagline": "Acetamipride 20% SP",
+  "image": "/products/p003.webp",
+  "description": "Printa is an Agriwell insecticide based on Acetamipride 20% SP, supplied as a soluble powder (SP). Recommended dose: 10-15 g / 15 L water. Pack sizes: 100 g, 250 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Acetamipride 20% SP",
+   "Formulation": "Soluble Powder (SP)",
+   "Pack sizes": "100 g, 250 g"
+  },
+  "dosage": {
+   "Recommended dose": "10-15 g / 15 L water"
+  },
+  "packs": [
+   "100 g",
+   "250 g"
+  ]
+ },
+ {
+  "id": "althrin-10",
+  "no": 4,
+  "name": "Althrin 10",
+  "category": "Insecticides",
+  "tagline": "Bifenthrin 10% EC",
+  "image": "/products/p004.webp",
+  "description": "Althrin 10 is an Agriwell insecticide based on Bifenthrin 10% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 15-20 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Bifenthrin 10% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "15-20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "althrin-cs",
+  "no": 5,
+  "name": "Althrin CS",
+  "category": "Insecticides",
+  "tagline": "Bifenthrin 8.8% CS",
+  "image": "/products/p005.webp",
+  "description": "Althrin CS is an Agriwell insecticide based on Bifenthrin 8.8% CS, supplied as a capsule suspension (CS). Recommended dose: 30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Bifenthrin 8.8% CS",
+   "Formulation": "Capsule Suspension (CS)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "carotap-4",
+  "no": 6,
+  "name": "Carotap 4",
+  "category": "Insecticides",
+  "tagline": "Cartap-Hydrochloride 4% GR",
+  "image": "/products/p006.webp",
+  "description": "Carotap 4 is an Agriwell insecticide based on Cartap-Hydrochloride 4% GR, supplied as a granules (GR). Recommended dose: 4 kg. Pack sizes: 4 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Cartap-Hydrochloride 4% GR",
+   "Formulation": "Granules (GR)",
+   "Pack sizes": "4 kg"
+  },
+  "dosage": {
+   "Recommended dose": "4 kg"
+  },
+  "packs": [
+   "4 kg"
+  ]
+ },
+ {
+  "id": "carofil",
+  "no": 7,
+  "name": "Carofil",
+  "category": "Insecticides",
+  "tagline": "Cartap-hydrochloride 4% + Fipronil 0.5% CG",
+  "image": "/products/p007.webp",
+  "description": "Carofil is an Agriwell insecticide based on Cartap-hydrochloride 4% + Fipronil 0.5% CG, supplied as a coated granules (CG). Recommended dose: 4 kg. Pack sizes: 4 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Cartap-hydrochloride 4% + Fipronil 0.5% CG",
+   "Formulation": "Coated Granules (CG)",
+   "Pack sizes": "4 kg"
+  },
+  "dosage": {
+   "Recommended dose": "4 kg"
+  },
+  "packs": [
+   "4 kg"
+  ]
+ },
+ {
+  "id": "carol",
+  "no": 8,
+  "name": "Carol",
+  "category": "Insecticides",
+  "tagline": "Chlorantraniliprole 0.4% GR",
+  "image": "/products/p008.webp",
+  "description": "Carol is an Agriwell insecticide based on Chlorantraniliprole 0.4% GR, supplied as a granules (GR). Recommended dose: 4 kg. Pack sizes: 4 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorantraniliprole 0.4% GR",
+   "Formulation": "Granules (GR)",
+   "Pack sizes": "4 kg"
+  },
+  "dosage": {
+   "Recommended dose": "4 kg"
+  },
+  "packs": [
+   "4 kg"
+  ]
+ },
+ {
+  "id": "prontagen",
+  "no": 9,
+  "name": "Prontagen",
+  "category": "Insecticides",
+  "tagline": "Chlorantraniliprole 18.5% SC",
+  "image": "/products/p009.webp",
+  "description": "Prontagen is an Agriwell insecticide based on Chlorantraniliprole 18.5% SC, supplied as a suspension concentrate (SC). Recommended dose: 5 ml / 15 L water. Pack sizes: 30 ml, 60 ml, 150 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorantraniliprole 18.5% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "30 ml, 60 ml, 150 ml"
+  },
+  "dosage": {
+   "Recommended dose": "5 ml / 15 L water"
+  },
+  "packs": [
+   "30 ml",
+   "60 ml",
+   "150 ml"
+  ]
+ },
+ {
+  "id": "amoxa",
+  "no": 10,
+  "name": "Amoxa",
+  "category": "Insecticides",
+  "tagline": "Chlorantraniliprole 4.3% + Abamectin 1.7% SC",
+  "image": "/products/p010.webp",
+  "description": "Amoxa is an Agriwell insecticide based on Chlorantraniliprole 4.3% + Abamectin 1.7% SC, supplied as a suspension concentrate (SC). Recommended dose: 15 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorantraniliprole 4.3% + Abamectin 1.7% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "lumax",
+  "no": 11,
+  "name": "Lumax",
+  "category": "Insecticides",
+  "tagline": "Chlorantraniliprol 8.8% + Thiamethoxam 17.5% SC",
+  "image": "/products/p011.webp",
+  "description": "Lumax is an Agriwell insecticide based on Chlorantraniliprol 8.8% + Thiamethoxam 17.5% SC, supplied as a suspension concentrate (SC). Recommended dose: 10 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorantraniliprol 8.8% + Thiamethoxam 17.5% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "10 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "lentona",
+  "no": 12,
+  "name": "Lentona",
+  "category": "Insecticides",
+  "tagline": "Chlorantraniliprol 9.3% + Lambda Cyhalothrin 4.6% ZC",
+  "image": "/products/p012.webp",
+  "description": "Lentona is an Agriwell insecticide based on Chlorantraniliprol 9.3% + Lambda Cyhalothrin 4.6% ZC, supplied as a mixed capsule & suspension concentrate (ZC). Recommended dose: 20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorantraniliprol 9.3% + Lambda Cyhalothrin 4.6% ZC",
+   "Formulation": "Mixed Capsule & Suspension Concentrate (ZC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "maker-super",
+  "no": 13,
+  "name": "Maker Super",
+  "category": "Insecticides",
+  "tagline": "Chlorpyrifos 16% + Alphacypermethrin 1% EC",
+  "image": "/products/p013.webp",
+  "description": "Maker Super is an Agriwell insecticide based on Chlorpyrifos 16% + Alphacypermethrin 1% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 20-30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorpyrifos 16% + Alphacypermethrin 1% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20-30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "cel-ban-50",
+  "no": 14,
+  "name": "Cel Ban 50",
+  "category": "Insecticides",
+  "tagline": "Chlorpyrifos 50% EC",
+  "image": "/products/p014.webp",
+  "description": "Cel Ban 50 is an Agriwell insecticide based on Chlorpyrifos 50% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 25-30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorpyrifos 50% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25-30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "furet-10-gr",
+  "no": 15,
+  "name": "Furet 10 GR",
+  "category": "Insecticides",
+  "tagline": "Chlorpyrifos 10% GR",
+  "image": "/products/p015.webp",
+  "description": "Furet 10 GR is an Agriwell insecticide based on Chlorpyrifos 10% GR, supplied as a granules (GR). Recommended dose: 5-7 kg / acre. Pack sizes: 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorpyrifos 10% GR",
+   "Formulation": "Granules (GR)",
+   "Pack sizes": "1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "5-7 kg / acre"
+  },
+  "packs": [
+   "1 kg"
+  ]
+ },
+ {
+  "id": "cel-ban-20",
+  "no": 16,
+  "name": "Cel Ban 20",
+  "category": "Insecticides",
+  "tagline": "Chlorpyrifos 20% EC",
+  "image": "/products/p016.webp",
+  "description": "Cel Ban 20 is an Agriwell insecticide based on Chlorpyrifos 20% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorpyrifos 20% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "cel-ban-505",
+  "no": 17,
+  "name": "Cel Ban-505",
+  "category": "Insecticides",
+  "tagline": "Chlorpyrifos 50% + Cypermethrin 5% EC",
+  "image": "/products/p017.webp",
+  "description": "Cel Ban-505 is an Agriwell insecticide based on Chlorpyrifos 50% + Cypermethrin 5% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30-35 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorpyrifos 50% + Cypermethrin 5% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30-35 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "cipon-10",
+  "no": 18,
+  "name": "Cipon-10",
+  "category": "Insecticides",
+  "tagline": "Cypermethrin 10% EC",
+  "image": "/products/p018.webp",
+  "description": "Cipon-10 is an Agriwell insecticide based on Cypermethrin 10% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 35 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Cypermethrin 10% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "35 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "cipon-25",
+  "no": 19,
+  "name": "Cipon-25",
+  "category": "Insecticides",
+  "tagline": "Cypermethrin 25% EC",
+  "image": "/products/p019.webp",
+  "description": "Cipon-25 is an Agriwell insecticide based on Cypermethrin 25% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 25-30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Cypermethrin 25% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25-30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "delton",
+  "no": 20,
+  "name": "Delton",
+  "category": "Insecticides",
+  "tagline": "Deltamethrin 1.8% EC",
+  "image": "/products/p020.webp",
+  "description": "Delton is an Agriwell insecticide based on Deltamethrin 1.8% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Deltamethrin 1.8% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "denol-11",
+  "no": 21,
+  "name": "Denol 11",
+  "category": "Insecticides",
+  "tagline": "Deltamethrin 11% EC",
+  "image": "/products/p021.webp",
+  "description": "Denol 11 is an Agriwell insecticide based on Deltamethrin 11% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 10-12 ml / 15 L water. Pack sizes: 100 ml, 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Deltamethrin 11% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "100 ml, 250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "10-12 ml / 15 L water"
+  },
+  "packs": [
+   "100 ml",
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "denolin",
+  "no": 22,
+  "name": "Denolin",
+  "category": "Insecticides",
+  "tagline": "Deltamethrin 2.5% WP",
+  "image": "/products/p022.webp",
+  "description": "Denolin is an Agriwell insecticide based on Deltamethrin 2.5% WP, supplied as a wettable powder (WP). Recommended dose: 35 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Deltamethrin 2.5% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "35 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "denol-2-8",
+  "no": 23,
+  "name": "Denol 2.8",
+  "category": "Insecticides",
+  "tagline": "Deltamethrin 2.8% EC",
+  "image": "/products/p023.webp",
+  "description": "Denol 2.8 is an Agriwell insecticide based on Deltamethrin 2.8% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 20 ml / 15 L water. Pack sizes: 100 ml, 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Deltamethrin 2.8% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "100 ml, 250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "100 ml",
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "due-fen",
+  "no": 24,
+  "name": "Due Fen",
+  "category": "Insecticides",
+  "tagline": "Diafenthiuron 47% + Bifenthrin 9.4% SC",
+  "image": "/products/p024.webp",
+  "description": "Due Fen is an Agriwell insecticide based on Diafenthiuron 47% + Bifenthrin 9.4% SC, supplied as a suspension concentrate (SC). Recommended dose: 10 ml / 15 L water. Pack sizes: 50 ml, 100 ml, 250 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Diafenthiuron 47% + Bifenthrin 9.4% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "50 ml, 100 ml, 250 ml"
+  },
+  "dosage": {
+   "Recommended dose": "10 ml / 15 L water"
+  },
+  "packs": [
+   "50 ml",
+   "100 ml",
+   "250 ml"
+  ]
+ },
+ {
+  "id": "polentro",
+  "no": 25,
+  "name": "Polentro",
+  "category": "Insecticides",
+  "tagline": "Diafenthiuron 50% WP",
+  "image": "/products/p025.webp",
+  "description": "Polentro is an Agriwell insecticide based on Diafenthiuron 50% WP, supplied as a wettable powder (WP). Recommended dose: 25 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Diafenthiuron 50% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "25 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "dil-gor",
+  "no": 26,
+  "name": "Dil Gor",
+  "category": "Insecticides",
+  "tagline": "Dimethoate 30% EC",
+  "image": "/products/p026.webp",
+  "description": "Dil Gor is an Agriwell insecticide based on Dimethoate 30% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30-35 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Dimethoate 30% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30-35 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "flip-ton",
+  "no": 27,
+  "name": "Flip Ton",
+  "category": "Insecticides",
+  "tagline": "Dinotefuran 15% + Pymetrozine 45% WG",
+  "image": "/products/p027.webp",
+  "description": "Flip Ton is an Agriwell insecticide based on Dinotefuran 15% + Pymetrozine 45% WG, supplied as a water dispersible granules (WG). Recommended dose: 133.2 g / acre. Pack sizes: 133.2 g, 333 g, 600 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Dinotefuran 15% + Pymetrozine 45% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "133.2 g, 333 g, 600 g"
+  },
+  "dosage": {
+   "Recommended dose": "133.2 g / acre"
+  },
+  "packs": [
+   "133.2 g",
+   "333 g",
+   "600 g"
+  ]
+ },
+ {
+  "id": "denop",
+  "no": 28,
+  "name": "Denop",
+  "category": "Insecticides",
+  "tagline": "Dinotefuran 20% SG",
+  "image": "/products/p028.webp",
+  "description": "Denop is an Agriwell insecticide based on Dinotefuran 20% SG, supplied as a soluble granules (SG). Recommended dose: 8-10 g / 15 L water. Pack sizes: 100 g, 250 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Dinotefuran 20% SG",
+   "Formulation": "Soluble Granules (SG)",
+   "Pack sizes": "100 g, 250 g"
+  },
+  "dosage": {
+   "Recommended dose": "8-10 g / 15 L water"
+  },
+  "packs": [
+   "100 g",
+   "250 g"
+  ]
+ },
+ {
+  "id": "ampril",
+  "no": 29,
+  "name": "Ampril",
+  "category": "Insecticides",
+  "tagline": "Emamectin Benzoate 1.5% + Fipronil 3.5% SC",
+  "image": "/products/p029.webp",
+  "description": "Ampril is an Agriwell insecticide based on Emamectin Benzoate 1.5% + Fipronil 3.5% SC, supplied as a suspension concentrate (SC). Recommended dose: 15 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Emamectin Benzoate 1.5% + Fipronil 3.5% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "15 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "chili-maker",
+  "no": 30,
+  "name": "Chili Maker",
+  "category": "Insecticides",
+  "tagline": "Emamectin Benzoate 1.9% EC",
+  "image": "/products/p030.webp",
+  "description": "Chili Maker is an Agriwell insecticide based on Emamectin Benzoate 1.9% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 20-25 ml / 15 L water. Pack sizes: 50 ml, 100 ml, 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Emamectin Benzoate 1.9% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "50 ml, 100 ml, 250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20-25 ml / 15 L water"
+  },
+  "packs": [
+   "50 ml",
+   "100 ml",
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "dil-max",
+  "no": 31,
+  "name": "Dil-Max",
+  "category": "Insecticides",
+  "tagline": "Emamectin Benzoate 3.0% + Thiamethoxam 12% WG",
+  "image": "/products/p031.webp",
+  "description": "Dil-Max is an Agriwell insecticide based on Emamectin Benzoate 3.0% + Thiamethoxam 12% WG, supplied as a water dispersible granules (WG). Recommended dose: 10 g / 15 L water. Pack sizes: 50 g, 100 g, 250 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Emamectin Benzoate 3.0% + Thiamethoxam 12% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "50 g, 100 g, 250 g"
+  },
+  "dosage": {
+   "Recommended dose": "10 g / 15 L water"
+  },
+  "packs": [
+   "50 g",
+   "100 g",
+   "250 g"
+  ]
+ },
+ {
+  "id": "amaktron",
+  "no": 32,
+  "name": "Amaktron",
+  "category": "Insecticides",
+  "tagline": "Emamectin Benzoate 5% SG",
+  "image": "/products/p032.webp",
+  "description": "Amaktron is an Agriwell insecticide based on Emamectin Benzoate 5% SG, supplied as a soluble granules (SG). Recommended dose: 10 g / 15 L water. Pack sizes: 50 g, 100 g, 250 g, 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Emamectin Benzoate 5% SG",
+   "Formulation": "Soluble Granules (SG)",
+   "Pack sizes": "50 g, 100 g, 250 g, 500 g"
+  },
+  "dosage": {
+   "Recommended dose": "10 g / 15 L water"
+  },
+  "packs": [
+   "50 g",
+   "100 g",
+   "250 g",
+   "500 g"
+  ]
+ },
+ {
+  "id": "ethan-404",
+  "no": 33,
+  "name": "Ethan-404",
+  "category": "Insecticides",
+  "tagline": "Ethion 40% + Cypermethrin 5% EC",
+  "image": "/products/p033.webp",
+  "description": "Ethan-404 is an Agriwell insecticide based on Ethion 40% + Cypermethrin 5% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 35-40 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Ethion 40% + Cypermethrin 5% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "35-40 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "fenova",
+  "no": 34,
+  "name": "Fenova",
+  "category": "Insecticides",
+  "tagline": "Fenobucarb (BPMC) 50% EC",
+  "image": "/products/p034.webp",
+  "description": "Fenova is an Agriwell insecticide based on Fenobucarb (BPMC) 50% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fenobucarb (BPMC) 50% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "acrofen",
+  "no": 35,
+  "name": "Acrofen",
+  "category": "Insecticides",
+  "tagline": "Fenvalerate 20% EC",
+  "image": "/products/p035.webp",
+  "description": "Acrofen is an Agriwell insecticide based on Fenvalerate 20% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 20-25 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fenvalerate 20% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20-25 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "floret",
+  "no": 36,
+  "name": "Floret",
+  "category": "Insecticides",
+  "tagline": "Fipronil 0.6% GR",
+  "image": "/products/p036.webp",
+  "description": "Floret is an Agriwell insecticide based on Fipronil 0.6% GR, supplied as a granules (GR). Recommended dose: 4 kg. Pack sizes: 4 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fipronil 0.6% GR",
+   "Formulation": "Granules (GR)",
+   "Pack sizes": "4 kg"
+  },
+  "dosage": {
+   "Recommended dose": "4 kg"
+  },
+  "packs": [
+   "4 kg"
+  ]
+ },
+ {
+  "id": "pre-jent",
+  "no": 37,
+  "name": "Pre Jent",
+  "category": "Insecticides",
+  "tagline": "Fipronil 18.87% SC",
+  "image": "/products/p037.webp",
+  "description": "Pre Jent is an Agriwell insecticide based on Fipronil 18.87% SC, supplied as a suspension concentrate (SC). Recommended dose: 10-15 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fipronil 18.87% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "10-15 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "chili-ton",
+  "no": 38,
+  "name": "Chili Ton",
+  "category": "Insecticides",
+  "tagline": "Fipronil 2.92% EC",
+  "image": "/products/p038.webp",
+  "description": "Chili Ton is an Agriwell insecticide based on Fipronil 2.92% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fipronil 2.92% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "pro-k-sil",
+  "no": 39,
+  "name": "Pro-K-Sil",
+  "category": "Insecticides",
+  "tagline": "Fipronil 7% + Hexythiazox 2% SC",
+  "image": "/products/p039.webp",
+  "description": "Pro-K-Sil is an Agriwell insecticide based on Fipronil 7% + Hexythiazox 2% SC, supplied as a suspension concentrate (SC). Recommended dose: 35 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fipronil 7% + Hexythiazox 2% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "35 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "fenox",
+  "no": 40,
+  "name": "Fenox",
+  "category": "Insecticides",
+  "tagline": "Fipronil 4% + Thiamethoxam 4% SC",
+  "image": "/products/p040.webp",
+  "description": "Fenox is an Agriwell insecticide based on Fipronil 4% + Thiamethoxam 4% SC, supplied as a suspension concentrate (SC). Recommended dose: 15-20 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fipronil 4% + Thiamethoxam 4% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "15-20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "allentra",
+  "no": 41,
+  "name": "Allentra",
+  "category": "Insecticides",
+  "tagline": "Fipronil 40% + Imidacloprid 40% WG",
+  "image": "/products/p041.webp",
+  "description": "Allentra is an Agriwell insecticide based on Fipronil 40% + Imidacloprid 40% WG, supplied as a water dispersible granules (WG). Recommended dose: 5 g / 15 L water. Pack sizes: 40 g, 100 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fipronil 40% + Imidacloprid 40% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "40 g, 100 g"
+  },
+  "dosage": {
+   "Recommended dose": "5 g / 15 L water"
+  },
+  "packs": [
+   "40 g",
+   "100 g"
+  ]
+ },
+ {
+  "id": "apronil",
+  "no": 42,
+  "name": "Apronil",
+  "category": "Insecticides",
+  "tagline": "Fipronil 5% SC",
+  "image": "/products/p042.webp",
+  "description": "Apronil is an Agriwell insecticide based on Fipronil 5% SC, supplied as a suspension concentrate (SC). Recommended dose: 25 ml / 15 L water. Pack sizes: 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fipronil 5% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "25 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml"
+  ]
+ },
+ {
+  "id": "apronil-80",
+  "no": 43,
+  "name": "Apronil 80",
+  "category": "Insecticides",
+  "tagline": "Fipronil 80% WG",
+  "image": "/products/p043.webp",
+  "description": "Apronil 80 is an Agriwell insecticide based on Fipronil 80% WG, supplied as a water dispersible granules (WG). Recommended dose: 2 g / 15 L water. Pack sizes: 40 g, 100 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fipronil 80% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "40 g, 100 g"
+  },
+  "dosage": {
+   "Recommended dose": "2 g / 15 L water"
+  },
+  "packs": [
+   "40 g",
+   "100 g"
+  ]
+ },
+ {
+  "id": "dil-met",
+  "no": 44,
+  "name": "Dil Met",
+  "category": "Insecticides",
+  "tagline": "Hexythiazox 5.45% EC",
+  "image": "/products/p044.webp",
+  "description": "Dil Met is an Agriwell insecticide based on Hexythiazox 5.45% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Hexythiazox 5.45% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "cellmid",
+  "no": 45,
+  "name": "Cellmid",
+  "category": "Insecticides",
+  "tagline": "Imidacloprid 17.8% SL",
+  "image": "/products/p045.webp",
+  "description": "Cellmid is an Agriwell insecticide based on Imidacloprid 17.8% SL, supplied as a soluble liquid (SL). Recommended dose: 12-15 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Imidacloprid 17.8% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "12-15 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "cellmid-super",
+  "no": 46,
+  "name": "Cellmid Super",
+  "category": "Insecticides",
+  "tagline": "Imidacloprid 30.5% SC",
+  "image": "/products/p046.webp",
+  "description": "Cellmid Super is an Agriwell insecticide based on Imidacloprid 30.5% SC, supplied as a suspension concentrate (SC). Recommended dose: 10-12 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Imidacloprid 30.5% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "10-12 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "meji-star",
+  "no": 47,
+  "name": "Meji Star",
+  "category": "Insecticides",
+  "tagline": "Imidacloprid 6% + Lambda Cyhalothrin 4% SL",
+  "image": "/products/p047.webp",
+  "description": "Meji Star is an Agriwell insecticide based on Imidacloprid 6% + Lambda Cyhalothrin 4% SL, supplied as a soluble liquid (SL). Recommended dose: 10 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Imidacloprid 6% + Lambda Cyhalothrin 4% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "10 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "indolax",
+  "no": 48,
+  "name": "Indolax",
+  "category": "Insecticides",
+  "tagline": "Indoxacarb 14.5% SC",
+  "image": "/products/p048.webp",
+  "description": "Indolax is an Agriwell insecticide based on Indoxacarb 14.5% SC, supplied as a suspension concentrate (SC). Recommended dose: 10-12 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Indoxacarb 14.5% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "10-12 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "kartish-5",
+  "no": 49,
+  "name": "Kartish 5",
+  "category": "Insecticides",
+  "tagline": "Lambda Cyhalothrin 5% EC",
+  "image": "/products/p049.webp",
+  "description": "Kartish 5 is an Agriwell insecticide based on Lambda Cyhalothrin 5% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30-35 ml / 15 L water. Pack sizes: 100 ml, 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Lambda Cyhalothrin 5% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "100 ml, 250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "30-35 ml / 15 L water"
+  },
+  "packs": [
+   "100 ml",
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "amectar",
+  "no": 50,
+  "name": "Amectar",
+  "category": "Insecticides",
+  "tagline": "Lambda Cyhalothrin 4.9% CS",
+  "image": "/products/p050.webp",
+  "description": "Amectar is an Agriwell insecticide based on Lambda Cyhalothrin 4.9% CS, supplied as a capsule suspension (CS). Recommended dose: 20-25 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Lambda Cyhalothrin 4.9% CS",
+   "Formulation": "Capsule Suspension (CS)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20-25 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "neem-crop-300-ppm",
+  "no": 51,
+  "name": "Neem Crop 300 PPM",
+  "category": "Insecticides",
+  "tagline": "Neem Seed Kernel EC Containing Azadirechtin 0.03% (300PPM) Min",
+  "image": "/products/p051.webp",
+  "description": "Neem Crop 300 PPM is an Agriwell insecticide based on Neem Seed Kernel EC Containing Azadirechtin 0.03% (300PPM) Min. Recommended dose: 20-25 ml / 15 L water. Pack sizes: 50 ml, 100 ml, 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Neem Seed Kernel EC Containing Azadirechtin 0.03% (300PPM) Min",
+   "Pack sizes": "50 ml, 100 ml, 250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20-25 ml / 15 L water"
+  },
+  "packs": [
+   "50 ml",
+   "100 ml",
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "neem-crop-1000-ppm",
+  "no": 52,
+  "name": "Neem Crop 1000 PPM",
+  "category": "Insecticides",
+  "tagline": "Neem Seed Kernel EC Containing Azadirechtin 1% (1000PPM) Min",
+  "image": "/products/p052.webp",
+  "description": "Neem Crop 1000 PPM is an Agriwell insecticide based on Neem Seed Kernel EC Containing Azadirechtin 1% (1000PPM) Min. Recommended dose: 10 ml / 15 L water. Pack sizes: 100 ml, 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Neem Seed Kernel EC Containing Azadirechtin 1% (1000PPM) Min",
+   "Pack sizes": "100 ml, 250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "10 ml / 15 L water"
+  },
+  "packs": [
+   "100 ml",
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "novatin",
+  "no": 53,
+  "name": "Novatin",
+  "category": "Insecticides",
+  "tagline": "Novaluron 5.25% + Emamectin Benzoate 0.9% SC",
+  "image": "/products/p053.webp",
+  "description": "Novatin is an Agriwell insecticide based on Novaluron 5.25% + Emamectin Benzoate 0.9% SC, supplied as a suspension concentrate (SC). Recommended dose: 35 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Novaluron 5.25% + Emamectin Benzoate 0.9% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "35 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "weelon",
+  "no": 54,
+  "name": "Weelon",
+  "category": "Insecticides",
+  "tagline": "Novaluron 10% EC",
+  "image": "/products/p054.webp",
+  "description": "Weelon is an Agriwell insecticide based on Novaluron 10% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Novaluron 10% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "neem-crop",
+  "no": 55,
+  "name": "Neem Crop",
+  "category": "Insecticides",
+  "tagline": "Neem Extract Concentrate Containing Azadirachtin 10% Min",
+  "image": "/products/p055.webp",
+  "description": "Neem Crop is an Agriwell insecticide based on Neem Extract Concentrate Containing Azadirachtin 10% Min. Recommended dose: 15-20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Neem Extract Concentrate Containing Azadirachtin 10% Min",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15-20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "nova-dox",
+  "no": 56,
+  "name": "Nova Dox",
+  "category": "Insecticides",
+  "tagline": "Novaluron 5.25% + Indoxacarb 4.5% SC",
+  "image": "/products/p056.webp",
+  "description": "Nova Dox is an Agriwell insecticide based on Novaluron 5.25% + Indoxacarb 4.5% SC, supplied as a suspension concentrate (SC). Recommended dose: 10 ml / 15 L water. Pack sizes: 100 ml, 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Novaluron 5.25% + Indoxacarb 4.5% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "100 ml, 250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "10 ml / 15 L water"
+  },
+  "packs": [
+   "100 ml",
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "pronta-super",
+  "no": 57,
+  "name": "Pronta Super",
+  "category": "Insecticides",
+  "tagline": "Profenofos 40% + Cypermethrin 4% EC",
+  "image": "/products/p057.webp",
+  "description": "Pronta Super is an Agriwell insecticide based on Profenofos 40% + Cypermethrin 4% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30-35 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Profenofos 40% + Cypermethrin 4% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30-35 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "pronta-met",
+  "no": 58,
+  "name": "Pronta Met",
+  "category": "Insecticides",
+  "tagline": "Profenofos 40% + Fenpyroximate 2.5% EC",
+  "image": "/products/p058.webp",
+  "description": "Pronta Met is an Agriwell insecticide based on Profenofos 40% + Fenpyroximate 2.5% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 35-40 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Profenofos 40% + Fenpyroximate 2.5% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "35-40 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "pronta-phos",
+  "no": 59,
+  "name": "Pronta Phos",
+  "category": "Insecticides",
+  "tagline": "Profenofos 50% EC",
+  "image": "/products/p059.webp",
+  "description": "Pronta Phos is an Agriwell insecticide based on Profenofos 50% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 35 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Profenofos 50% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "35 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "axe-mite",
+  "no": 60,
+  "name": "Axe Mite",
+  "category": "Insecticides",
+  "tagline": "Propargite 57% EC",
+  "image": "/products/p060.webp",
+  "description": "Axe Mite is an Agriwell insecticide based on Propargite 57% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Propargite 57% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "ozin",
+  "no": 61,
+  "name": "Ozin",
+  "category": "Insecticides",
+  "tagline": "Pymetrozine 50% WG",
+  "image": "/products/p061.webp",
+  "description": "Ozin is an Agriwell insecticide based on Pymetrozine 50% WG, supplied as a water dispersible granules (WG). Recommended dose: 120 g / acre. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Pymetrozine 50% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "120 g / acre"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "tenofil",
+  "no": 62,
+  "name": "Tenofil",
+  "category": "Insecticides",
+  "tagline": "Pyriproxyfen 10% + Bifenthrin 10% EC",
+  "image": "/products/p062.webp",
+  "description": "Tenofil is an Agriwell insecticide based on Pyriproxyfen 10% + Bifenthrin 10% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 25 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Pyriproxyfen 10% + Bifenthrin 10% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "filten",
+  "no": 63,
+  "name": "Filten",
+  "category": "Insecticides",
+  "tagline": "Pyriproxyfen 10% EC",
+  "image": "/products/p063.webp",
+  "description": "Filten is an Agriwell insecticide based on Pyriproxyfen 10% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Pyriproxyfen 10% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "anolex-25",
+  "no": 64,
+  "name": "Anolex 25",
+  "category": "Insecticides",
+  "tagline": "Quinolphos 25% EC",
+  "image": "/products/p064.webp",
+  "description": "Anolex 25 is an Agriwell insecticide based on Quinolphos 25% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Quinolphos 25% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "aprofen",
+  "no": 65,
+  "name": "Aprofen",
+  "category": "Insecticides",
+  "tagline": "Buprofenzin 25% SC",
+  "image": "/products/p065.webp",
+  "description": "Aprofen is an Agriwell insecticide based on Buprofenzin 25% SC, supplied as a suspension concentrate (SC). Recommended dose: 10-15 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Buprofenzin 25% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "10-15 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "lasto",
+  "no": 66,
+  "name": "Lasto",
+  "category": "Insecticides",
+  "tagline": "Thiamethoxam 1.0% + Chlorantraniliprole 0.5% GR",
+  "image": "/products/p066.webp",
+  "description": "Lasto is an Agriwell insecticide based on Thiamethoxam 1.0% + Chlorantraniliprole 0.5% GR, supplied as a granules (GR). Recommended dose: 2.5 kg / acre. Pack sizes: 1 kg, 5 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Thiamethoxam 1.0% + Chlorantraniliprole 0.5% GR",
+   "Formulation": "Granules (GR)",
+   "Pack sizes": "1 kg, 5 kg"
+  },
+  "dosage": {
+   "Recommended dose": "2.5 kg / acre"
+  },
+  "packs": [
+   "1 kg",
+   "5 kg"
+  ]
+ },
+ {
+  "id": "allfen",
+  "no": 67,
+  "name": "Allfen",
+  "category": "Insecticides",
+  "tagline": "Thiamethoxam 0.9% + Fipronil 0.2% GR",
+  "image": "/products/p067.webp",
+  "description": "Allfen is an Agriwell insecticide based on Thiamethoxam 0.9% + Fipronil 0.2% GR, supplied as a granules (GR). Recommended dose: 4 kg / acre. Pack sizes: 4 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Thiamethoxam 0.9% + Fipronil 0.2% GR",
+   "Formulation": "Granules (GR)",
+   "Pack sizes": "4 kg"
+  },
+  "dosage": {
+   "Recommended dose": "4 kg / acre"
+  },
+  "packs": [
+   "4 kg"
+  ]
+ },
+ {
+  "id": "lekero",
+  "no": 68,
+  "name": "Lekero",
+  "category": "Insecticides",
+  "tagline": "Thiamethoxam 12.6% + Lambdacyhalothrin 9.5% ZC",
+  "image": "/products/p068.webp",
+  "description": "Lekero is an Agriwell insecticide based on Thiamethoxam 12.6% + Lambdacyhalothrin 9.5% ZC, supplied as a mixed capsule & suspension concentrate (ZC). Recommended dose: 10-15 ml / 15 L water. Pack sizes: 100 ml, 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Thiamethoxam 12.6% + Lambdacyhalothrin 9.5% ZC",
+   "Formulation": "Mixed Capsule & Suspension Concentrate (ZC)",
+   "Pack sizes": "100 ml, 250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "10-15 ml / 15 L water"
+  },
+  "packs": [
+   "100 ml",
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "themox",
+  "no": 69,
+  "name": "Themox",
+  "category": "Insecticides",
+  "tagline": "Thiamethoxam 25% WG",
+  "image": "/products/p069.webp",
+  "description": "Themox is an Agriwell insecticide based on Thiamethoxam 25% WG, supplied as a water dispersible granules (WG). Recommended dose: 10 g / 15 L water. Pack sizes: 100 g, 250 g, 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Thiamethoxam 25% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "100 g, 250 g, 500 g"
+  },
+  "dosage": {
+   "Recommended dose": "10 g / 15 L water"
+  },
+  "packs": [
+   "100 g",
+   "250 g",
+   "500 g"
+  ]
+ },
+ {
+  "id": "thioseed",
+  "no": 70,
+  "name": "Thioseed",
+  "category": "Insecticides",
+  "tagline": "Thiamethoxam 30% FS",
+  "image": "/products/p070.webp",
+  "description": "Thioseed is an Agriwell insecticide based on Thiamethoxam 30% FS, supplied as a flowable concentrate for seed treatment (FS). Recommended dose: 10 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Thiamethoxam 30% FS",
+   "Formulation": "Flowable Concentrate for Seed Treatment (FS)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "10 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "themox-super",
+  "no": 71,
+  "name": "Themox Super",
+  "category": "Insecticides",
+  "tagline": "Thiamethoxam 75% SG",
+  "image": "/products/p071.webp",
+  "description": "Themox Super is an Agriwell insecticide based on Thiamethoxam 75% SG, supplied as a soluble granules (SG). Recommended dose: 5 g / 15 L water. Pack sizes: 250 g, 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Thiamethoxam 75% SG",
+   "Formulation": "Soluble Granules (SG)",
+   "Pack sizes": "250 g, 500 g"
+  },
+  "dosage": {
+   "Recommended dose": "5 g / 15 L water"
+  },
+  "packs": [
+   "250 g",
+   "500 g"
+  ]
+ },
+ {
+  "id": "tenox",
+  "no": 72,
+  "name": "Tenox",
+  "category": "Insecticides",
+  "tagline": "Tolfenpyrad 15% EC",
+  "image": "/products/p072.webp",
+  "description": "Tenox is an Agriwell insecticide based on Tolfenpyrad 15% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 10 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tolfenpyrad 15% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "10 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "ajectrol",
+  "no": 73,
+  "name": "Ajectrol",
+  "category": "Fungicides",
+  "tagline": "Azoxystrobin 11% + Tebuconazole 18.3% SC",
+  "image": "/products/p073.webp",
+  "description": "Ajectrol is an Agriwell fungicide based on Azoxystrobin 11% + Tebuconazole 18.3% SC, supplied as a suspension concentrate (SC). Recommended dose: 20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Azoxystrobin 11% + Tebuconazole 18.3% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "tropister",
+  "no": 74,
+  "name": "Tropister",
+  "category": "Fungicides",
+  "tagline": "Azoxystrobin 18.2% + Difenoconazole 11.4% SC",
+  "image": "/products/p074.webp",
+  "description": "Tropister is an Agriwell fungicide based on Azoxystrobin 18.2% + Difenoconazole 11.4% SC, supplied as a suspension concentrate (SC). Recommended dose: 15 ml / 15 L water. Pack sizes: 100 ml, 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Azoxystrobin 18.2% + Difenoconazole 11.4% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "100 ml, 250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15 ml / 15 L water"
+  },
+  "packs": [
+   "100 ml",
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "lizaster",
+  "no": 75,
+  "name": "Lizaster",
+  "category": "Fungicides",
+  "tagline": "Azoxystrobin 23% SC",
+  "image": "/products/p075.webp",
+  "description": "Lizaster is an Agriwell fungicide based on Azoxystrobin 23% SC, supplied as a suspension concentrate (SC). Recommended dose: 20 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Azoxystrobin 23% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "azostrol",
+  "no": 76,
+  "name": "Azostrol",
+  "category": "Fungicides",
+  "tagline": "Azoxystrobin 7.1% + Propiconazole 11.9% SE",
+  "image": "/products/p076.webp",
+  "description": "Azostrol is an Agriwell fungicide based on Azoxystrobin 7.1% + Propiconazole 11.9% SE, supplied as a suspo-emulsion (SE). Recommended dose: 15-20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Azoxystrobin 7.1% + Propiconazole 11.9% SE",
+   "Formulation": "Suspo-Emulsion (SE)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15-20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "milenta",
+  "no": 77,
+  "name": "Milenta",
+  "category": "Fungicides",
+  "tagline": "Azoxystrobin 4.8% + Chlorothalonil 40.0% SC",
+  "image": "/products/p077.webp",
+  "description": "Milenta is an Agriwell fungicide based on Azoxystrobin 4.8% + Chlorothalonil 40.0% SC, supplied as a suspension concentrate (SC). Recommended dose: 25 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Azoxystrobin 4.8% + Chlorothalonil 40.0% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "trizek",
+  "no": 78,
+  "name": "Trizek",
+  "category": "Fungicides",
+  "tagline": "Azoxystrobin 16.7% + Tricyclazole 33.3% SC",
+  "image": "/products/p078.webp",
+  "description": "Trizek is an Agriwell fungicide based on Azoxystrobin 16.7% + Tricyclazole 33.3% SC, supplied as a suspension concentrate (SC). Recommended dose: 20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Azoxystrobin 16.7% + Tricyclazole 33.3% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "cripton-50",
+  "no": 79,
+  "name": "Cripton 50",
+  "category": "Fungicides",
+  "tagline": "Captan 50% WP",
+  "image": "/products/p079.webp",
+  "description": "Cripton 50 is an Agriwell fungicide based on Captan 50% WP, supplied as a wettable powder (WP). Recommended dose: 30 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Captan 50% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "30 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "cripzol",
+  "no": 80,
+  "name": "Cripzol",
+  "category": "Fungicides",
+  "tagline": "Captan 70% + Hexaconazole 5% WP",
+  "image": "/products/p080.webp",
+  "description": "Cripzol is an Agriwell fungicide based on Captan 70% + Hexaconazole 5% WP, supplied as a wettable powder (WP). Recommended dose: 25 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Captan 70% + Hexaconazole 5% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "25 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "shaan",
+  "no": 81,
+  "name": "Shaan",
+  "category": "Fungicides",
+  "tagline": "Carbendazim 12% + Mencozeb 63% WP",
+  "image": "/products/p081.webp",
+  "description": "Shaan is an Agriwell fungicide based on Carbendazim 12% + Mencozeb 63% WP, supplied as a wettable powder (WP). Recommended dose: 20-25 g / 15 L water. Pack sizes: 250 g, 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Carbendazim 12% + Mencozeb 63% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "250 g, 500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "20-25 g / 15 L water"
+  },
+  "packs": [
+   "250 g",
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "alistin-gold",
+  "no": 82,
+  "name": "Alistin Gold",
+  "category": "Fungicides",
+  "tagline": "Carbendazim 46.27% SC",
+  "image": "/products/p082.webp",
+  "description": "Alistin Gold is an Agriwell fungicide based on Carbendazim 46.27% SC, supplied as a suspension concentrate (SC). Recommended dose: 25 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Carbendazim 46.27% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "alistin",
+  "no": 83,
+  "name": "Alistin",
+  "category": "Fungicides",
+  "tagline": "Carbendazim 50% WP",
+  "image": "/products/p083.webp",
+  "description": "Alistin is an Agriwell fungicide based on Carbendazim 50% WP, supplied as a wettable powder (WP). Recommended dose: 25-30 g / 15 L water. Pack sizes: 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Carbendazim 50% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g"
+  },
+  "dosage": {
+   "Recommended dose": "25-30 g / 15 L water"
+  },
+  "packs": [
+   "500 g"
+  ]
+ },
+ {
+  "id": "locker",
+  "no": 84,
+  "name": "Locker",
+  "category": "Fungicides",
+  "tagline": "Chlorothalonil 75% WP",
+  "image": "/products/p084.webp",
+  "description": "Locker is an Agriwell fungicide based on Chlorothalonil 75% WP, supplied as a wettable powder (WP). Recommended dose: 25 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlorothalonil 75% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "25 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "bluestar",
+  "no": 85,
+  "name": "Bluestar",
+  "category": "Fungicides",
+  "tagline": "Copper Oxychloride 50% WP",
+  "image": "/products/p085.webp",
+  "description": "Bluestar is an Agriwell fungicide based on Copper Oxychloride 50% WP, supplied as a wettable powder (WP). Recommended dose: 20-25 g / 15 L water. Pack sizes: 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Copper Oxychloride 50% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g"
+  },
+  "dosage": {
+   "Recommended dose": "20-25 g / 15 L water"
+  },
+  "packs": [
+   "500 g"
+  ]
+ },
+ {
+  "id": "menoxil",
+  "no": 86,
+  "name": "Menoxil",
+  "category": "Fungicides",
+  "tagline": "Cymoxanil 8% + Mancozeb 64% WP",
+  "image": "/products/p086.webp",
+  "description": "Menoxil is an Agriwell fungicide based on Cymoxanil 8% + Mancozeb 64% WP, supplied as a wettable powder (WP). Recommended dose: 25 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Cymoxanil 8% + Mancozeb 64% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "25 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "quret",
+  "no": 87,
+  "name": "Quret",
+  "category": "Fungicides",
+  "tagline": "Difenoconazole 25% EC",
+  "image": "/products/p087.webp",
+  "description": "Quret is an Agriwell fungicide based on Difenoconazole 25% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 10-15 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Difenoconazole 25% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "10-15 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "dimet",
+  "no": 88,
+  "name": "Dimet",
+  "category": "Fungicides",
+  "tagline": "Dimethomorph 50% WP",
+  "image": "/products/p088.webp",
+  "description": "Dimet is an Agriwell fungicide based on Dimethomorph 50% WP, supplied as a wettable powder (WP). Recommended dose: 30 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Dimethomorph 50% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "30 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "antraconal",
+  "no": 89,
+  "name": "Antraconal",
+  "category": "Fungicides",
+  "tagline": "Hexaconazole 5% EC",
+  "image": "/products/p089.webp",
+  "description": "Antraconal is an Agriwell fungicide based on Hexaconazole 5% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 25-30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Hexaconazole 5% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25-30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "antraconal-plus",
+  "no": 90,
+  "name": "Antraconal Plus",
+  "category": "Fungicides",
+  "tagline": "Hexaconazole 5% SC",
+  "image": "/products/p090.webp",
+  "description": "Antraconal Plus is an Agriwell fungicide based on Hexaconazole 5% SC, supplied as a suspension concentrate (SC). Recommended dose: 25-30 ml / 15 L water. Pack sizes: 500 ml, 1 L, 5 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Hexaconazole 5% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "500 ml, 1 L, 5 L"
+  },
+  "dosage": {
+   "Recommended dose": "25-30 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L",
+   "5 L"
+  ]
+ },
+ {
+  "id": "antraconal-gold",
+  "no": 91,
+  "name": "Antraconal Gold",
+  "category": "Fungicides",
+  "tagline": "Hexaconazole 75% WG",
+  "image": "/products/p091.webp",
+  "description": "Antraconal Gold is an Agriwell fungicide based on Hexaconazole 75% WG, supplied as a water dispersible granules (WG). Recommended dose: 5 g / 15 L water. Pack sizes: 100 g, 250 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Hexaconazole 75% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "100 g, 250 g"
+  },
+  "dosage": {
+   "Recommended dose": "5 g / 15 L water"
+  },
+  "packs": [
+   "100 g",
+   "250 g"
+  ]
+ },
+ {
+  "id": "den-m-45",
+  "no": 92,
+  "name": "Den-M-45",
+  "category": "Fungicides",
+  "tagline": "Mencozeb 75% WP",
+  "image": "/products/p092.webp",
+  "description": "Den-M-45 is an Agriwell fungicide based on Mencozeb 75% WP, supplied as a wettable powder (WP). Recommended dose: 30 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Mencozeb 75% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "30 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "toksil",
+  "no": 93,
+  "name": "Toksil",
+  "category": "Fungicides",
+  "tagline": "Metalaxyl 35% WS",
+  "image": "/products/p093.webp",
+  "description": "Toksil is an Agriwell fungicide based on Metalaxyl 35% WS, supplied as a water dispersible powder for slurry seed treatment (WS). Recommended dose: 10 g / 15 L water. Pack sizes: 100 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Metalaxyl 35% WS",
+   "Formulation": "Water Dispersible Powder for Slurry Seed Treatment (WS)",
+   "Pack sizes": "100 g"
+  },
+  "dosage": {
+   "Recommended dose": "10 g / 15 L water"
+  },
+  "packs": [
+   "100 g"
+  ]
+ },
+ {
+  "id": "meta-max-gold",
+  "no": 94,
+  "name": "Meta Max Gold",
+  "category": "Fungicides",
+  "tagline": "Metalaxyl 8% + Mancozeb 64% WP",
+  "image": "/products/p094.webp",
+  "description": "Meta Max Gold is an Agriwell fungicide based on Metalaxyl 8% + Mancozeb 64% WP, supplied as a wettable powder (WP). Recommended dose: 30 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Metalaxyl 8% + Mancozeb 64% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "30 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "prontazol",
+  "no": 95,
+  "name": "Prontazol",
+  "category": "Fungicides",
+  "tagline": "Propiconazole 13.9% + Difenoconazole 13.9% EC",
+  "image": "/products/p095.webp",
+  "description": "Prontazol is an Agriwell fungicide based on Propiconazole 13.9% + Difenoconazole 13.9% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 20 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Propiconazole 13.9% + Difenoconazole 13.9% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "prizol",
+  "no": 96,
+  "name": "Prizol",
+  "category": "Fungicides",
+  "tagline": "Propiconazole 25% EC",
+  "image": "/products/p096.webp",
+  "description": "Prizol is an Agriwell fungicide based on Propiconazole 25% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 10-15 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Propiconazole 25% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "10-15 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "pronet",
+  "no": 97,
+  "name": "Pronet",
+  "category": "Fungicides",
+  "tagline": "Propiconazole 10.7% + Tricyclazole 34.2% SE",
+  "image": "/products/p097.webp",
+  "description": "Pronet is an Agriwell fungicide based on Propiconazole 10.7% + Tricyclazole 34.2% SE, supplied as a suspo-emulsion (SE). Recommended dose: 25 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Propiconazole 10.7% + Tricyclazole 34.2% SE",
+   "Formulation": "Suspo-Emulsion (SE)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "priventa",
+  "no": 98,
+  "name": "Priventa",
+  "category": "Fungicides",
+  "tagline": "Propine 70% WP",
+  "image": "/products/p098.webp",
+  "description": "Priventa is an Agriwell fungicide based on Propine 70% WP, supplied as a wettable powder (WP). Recommended dose: 30-40 g / 15 L water. Pack sizes: 250 g, 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Propine 70% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "250 g, 500 g"
+  },
+  "dosage": {
+   "Recommended dose": "30-40 g / 15 L water"
+  },
+  "packs": [
+   "250 g",
+   "500 g"
+  ]
+ },
+ {
+  "id": "selltron",
+  "no": 99,
+  "name": "Selltron",
+  "category": "Fungicides",
+  "tagline": "Sulphur 55.16% SC",
+  "image": "/products/p099.webp",
+  "description": "Selltron is an Agriwell fungicide based on Sulphur 55.16% SC, supplied as a suspension concentrate (SC). Recommended dose: 20 ml / 15 L water. Pack sizes: 500 ml, 1 L, 5 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Sulphur 55.16% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "500 ml, 1 L, 5 L"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L",
+   "5 L"
+  ]
+ },
+ {
+  "id": "selltron-80",
+  "no": 100,
+  "name": "Selltron 80",
+  "category": "Fungicides",
+  "tagline": "Sulphur 80% WDG",
+  "image": "/products/p100.webp",
+  "description": "Selltron 80 is an Agriwell fungicide based on Sulphur 80% WDG, supplied as a water dispersible granules (WDG). Recommended dose: 3 kg. Pack sizes: 3 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Sulphur 80% WDG",
+   "Formulation": "Water Dispersible Granules (WDG)",
+   "Pack sizes": "3 kg"
+  },
+  "dosage": {
+   "Recommended dose": "3 kg"
+  },
+  "packs": [
+   "3 kg"
+  ]
+ },
+ {
+  "id": "tracksil",
+  "no": 101,
+  "name": "Tracksil",
+  "category": "Fungicides",
+  "tagline": "Tebuconazole 10% + Sulphur 65% WG",
+  "image": "/products/p101.webp",
+  "description": "Tracksil is an Agriwell fungicide based on Tebuconazole 10% + Sulphur 65% WG, supplied as a water dispersible granules (WG). Recommended dose: 25-30 g / 15 L water. Pack sizes: 250 g, 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tebuconazole 10% + Sulphur 65% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "250 g, 500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "25-30 g / 15 L water"
+  },
+  "packs": [
+   "250 g",
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "wellcure",
+  "no": 102,
+  "name": "Wellcure",
+  "category": "Fungicides",
+  "tagline": "Tebuconazole 25.9% EC",
+  "image": "/products/p102.webp",
+  "description": "Wellcure is an Agriwell fungicide based on Tebuconazole 25.9% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 20-25 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tebuconazole 25.9% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20-25 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "wellcure-super",
+  "no": 103,
+  "name": "Wellcure Super",
+  "category": "Fungicides",
+  "tagline": "Tebuconazole 38.39% SC",
+  "image": "/products/p103.webp",
+  "description": "Wellcure Super is an Agriwell fungicide based on Tebuconazole 38.39% SC, supplied as a suspension concentrate (SC). Recommended dose: 30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tebuconazole 38.39% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "tab-cron",
+  "no": 104,
+  "name": "Tab Cron",
+  "category": "Fungicides",
+  "tagline": "Tebuconazole 25.0% WG",
+  "image": "/products/p104.webp",
+  "description": "Tab Cron is an Agriwell fungicide based on Tebuconazole 25.0% WG, supplied as a water dispersible granules (WG). Recommended dose: 10 g / 15 L water. Pack sizes: 250 g, 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tebuconazole 25.0% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "250 g, 500 g"
+  },
+  "dosage": {
+   "Recommended dose": "10 g / 15 L water"
+  },
+  "packs": [
+   "250 g",
+   "500 g"
+  ]
+ },
+ {
+  "id": "crop-vir",
+  "no": 105,
+  "name": "Crop Vir",
+  "category": "Fungicides",
+  "tagline": "Tebuconazole 6.7% + Captan 26.9% SC",
+  "image": "/products/p105.webp",
+  "description": "Crop Vir is an Agriwell fungicide based on Tebuconazole 6.7% + Captan 26.9% SC, supplied as a suspension concentrate (SC). Recommended dose: 30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tebuconazole 6.7% + Captan 26.9% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "rok-do",
+  "no": 106,
+  "name": "Rok Do",
+  "category": "Fungicides",
+  "tagline": "Thiophanate methyl 70% WP",
+  "image": "/products/p106.webp",
+  "description": "Rok Do is an Agriwell fungicide based on Thiophanate methyl 70% WP, supplied as a wettable powder (WP). Recommended dose: 20-30 g / 15 L water. Pack sizes: 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Thiophanate methyl 70% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g"
+  },
+  "dosage": {
+   "Recommended dose": "20-30 g / 15 L water"
+  },
+  "packs": [
+   "500 g"
+  ]
+ },
+ {
+  "id": "triman",
+  "no": 107,
+  "name": "Triman",
+  "category": "Fungicides",
+  "tagline": "Tricyclazole 18% + Mencozeb 62% WP",
+  "image": "/products/p107.webp",
+  "description": "Triman is an Agriwell fungicide based on Tricyclazole 18% + Mencozeb 62% WP, supplied as a wettable powder (WP). Recommended dose: 30 g / 15 L water. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tricyclazole 18% + Mencozeb 62% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "30 g / 15 L water"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "altron",
+  "no": 108,
+  "name": "Altron",
+  "category": "Fungicides",
+  "tagline": "Tricyclazole 45% + Hexaconazole 10% WG",
+  "image": "/products/p108.webp",
+  "description": "Altron is an Agriwell fungicide based on Tricyclazole 45% + Hexaconazole 10% WG, supplied as a water dispersible granules (WG). Recommended dose: 20 g / 15 L water. Pack sizes: 100 g, 250 g, 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tricyclazole 45% + Hexaconazole 10% WG",
+   "Formulation": "Water Dispersible Granules (WG)",
+   "Pack sizes": "100 g, 250 g, 500 g"
+  },
+  "dosage": {
+   "Recommended dose": "20 g / 15 L water"
+  },
+  "packs": [
+   "100 g",
+   "250 g",
+   "500 g"
+  ]
+ },
+ {
+  "id": "trizok",
+  "no": 109,
+  "name": "Trizok",
+  "category": "Fungicides",
+  "tagline": "Tricyclazole 20.4% + Azoxystrobin 6.8% SC",
+  "image": "/products/p109.webp",
+  "description": "Trizok is an Agriwell fungicide based on Tricyclazole 20.4% + Azoxystrobin 6.8% SC, supplied as a suspension concentrate (SC). Recommended dose: 15 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tricyclazole 20.4% + Azoxystrobin 6.8% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "trikil",
+  "no": 110,
+  "name": "Trikil",
+  "category": "Fungicides",
+  "tagline": "Tricyclazole 18.0% + Tebuconazole 14.4% SC",
+  "image": "/products/p110.webp",
+  "description": "Trikil is an Agriwell fungicide based on Tricyclazole 18.0% + Tebuconazole 14.4% SC, supplied as a suspension concentrate (SC). Recommended dose: 25 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tricyclazole 18.0% + Tebuconazole 14.4% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "trigun",
+  "no": 111,
+  "name": "Trigun",
+  "category": "Fungicides",
+  "tagline": "Tricyclazole 75% WP",
+  "image": "/products/p111.webp",
+  "description": "Trigun is an Agriwell fungicide based on Tricyclazole 75% WP, supplied as a wettable powder (WP). Recommended dose: 120 g. Pack sizes: 120 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tricyclazole 75% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "120 g"
+  },
+  "dosage": {
+   "Recommended dose": "120 g"
+  },
+  "packs": [
+   "120 g"
+  ]
+ },
+ {
+  "id": "wellcin-validamycin",
+  "no": 112,
+  "name": "Wellcin",
+  "category": "Fungicides",
+  "tagline": "Validamycin 3% L",
+  "image": "/products/p112.webp",
+  "description": "Wellcin is an Agriwell fungicide based on Validamycin 3% L, supplied as a liquid (L). Recommended dose: 25 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Validamycin 3% L",
+   "Formulation": "Liquid (L)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "mektol",
+  "no": 113,
+  "name": "Mektol",
+  "category": "Fungicides",
+  "tagline": "Myclobutanil 10% WP",
+  "image": "/products/p113.webp",
+  "description": "Mektol is an Agriwell fungicide based on Myclobutanil 10% WP, supplied as a wettable powder (WP). Recommended dose: 10-15 g / 15 L water. Pack sizes: 100 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Myclobutanil 10% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "100 g"
+  },
+  "dosage": {
+   "Recommended dose": "10-15 g / 15 L water"
+  },
+  "packs": [
+   "100 g"
+  ]
+ },
+ {
+  "id": "d-flex",
+  "no": 114,
+  "name": "D Flex",
+  "category": "Herbicides",
+  "tagline": "2,4-D Amine Salt 58% SL",
+  "image": "/products/p114.webp",
+  "description": "D Flex is an Agriwell herbicide based on 2,4-D Amine Salt 58% SL, supplied as a soluble liquid (SL). Recommended dose: 150-200 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "2,4-D Amine Salt 58% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "150-200 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "oxy-71",
+  "no": 115,
+  "name": "Oxy-71",
+  "category": "Herbicides",
+  "tagline": "Ammonium Salt Of Glyphosate 71% SG",
+  "image": "/products/p115.webp",
+  "description": "Oxy-71 is an Agriwell herbicide based on Ammonium Salt Of Glyphosate 71% SG, supplied as a soluble granules (SG). Recommended dose: 100 g / 15 L water. Pack sizes: 100 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Ammonium Salt Of Glyphosate 71% SG",
+   "Formulation": "Soluble Granules (SG)",
+   "Pack sizes": "100 g"
+  },
+  "dosage": {
+   "Recommended dose": "100 g / 15 L water"
+  },
+  "packs": [
+   "100 g"
+  ]
+ },
+ {
+  "id": "alozen",
+  "no": 116,
+  "name": "Alozen",
+  "category": "Herbicides",
+  "tagline": "Atrazin 50% WP",
+  "image": "/products/p116.webp",
+  "description": "Alozen is an Agriwell herbicide based on Atrazin 50% WP, supplied as a wettable powder (WP). Recommended dose: 35 g / 15 L water. Pack sizes: 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Atrazin 50% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "500 g"
+  },
+  "dosage": {
+   "Recommended dose": "35 g / 15 L water"
+  },
+  "packs": [
+   "500 g"
+  ]
+ },
+ {
+  "id": "asperi-10",
+  "no": 117,
+  "name": "Asperi-10",
+  "category": "Herbicides",
+  "tagline": "Bispyribac Sodium 10% SC",
+  "image": "/products/p117.webp",
+  "description": "Asperi-10 is an Agriwell herbicide based on Bispyribac Sodium 10% SC, supplied as a suspension concentrate (SC). Recommended dose: 10 ml / 15 L water. Pack sizes: 50 ml, 100 ml, 250 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Bispyribac Sodium 10% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "50 ml, 100 ml, 250 ml"
+  },
+  "dosage": {
+   "Recommended dose": "10 ml / 15 L water"
+  },
+  "packs": [
+   "50 ml",
+   "100 ml",
+   "250 ml"
+  ]
+ },
+ {
+  "id": "wellosta",
+  "no": 118,
+  "name": "Wellosta",
+  "category": "Herbicides",
+  "tagline": "Clodinafop Propargyl 15% + Metsulfuron Methyl 1% WP",
+  "image": "/products/p118.webp",
+  "description": "Wellosta is an Agriwell herbicide based on Clodinafop Propargyl 15% + Metsulfuron Methyl 1% WP, supplied as a wettable powder (WP). Recommended dose: 160 g / acre. Pack sizes: 160 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Clodinafop Propargyl 15% + Metsulfuron Methyl 1% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "160 g"
+  },
+  "dosage": {
+   "Recommended dose": "160 g / acre"
+  },
+  "packs": [
+   "160 g"
+  ]
+ },
+ {
+  "id": "soket",
+  "no": 119,
+  "name": "Soket",
+  "category": "Herbicides",
+  "tagline": "Clodinafop Propargyl 15% WP",
+  "image": "/products/p119.webp",
+  "description": "Soket is an Agriwell herbicide based on Clodinafop Propargyl 15% WP, supplied as a wettable powder (WP). Recommended dose: 8 g. Pack sizes: 160 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Clodinafop Propargyl 15% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "160 g"
+  },
+  "dosage": {
+   "Recommended dose": "8 g"
+  },
+  "packs": [
+   "160 g"
+  ]
+ },
+ {
+  "id": "flip-super",
+  "no": 120,
+  "name": "Flip Super",
+  "category": "Herbicides",
+  "tagline": "Fenoxaprop-P-Ethyl 9.3% EC",
+  "image": "/products/p120.webp",
+  "description": "Flip Super is an Agriwell herbicide based on Fenoxaprop-P-Ethyl 9.3% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 15-20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fenoxaprop-P-Ethyl 9.3% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15-20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "flip-star",
+  "no": 121,
+  "name": "Flip Star",
+  "category": "Herbicides",
+  "tagline": "Fenoxaprop-p-ethyl 6.7% EC",
+  "image": "/products/p121.webp",
+  "description": "Flip Star is an Agriwell herbicide based on Fenoxaprop-p-ethyl 6.7% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fenoxaprop-p-ethyl 6.7% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "abox",
+  "no": 122,
+  "name": "Abox",
+  "category": "Herbicides",
+  "tagline": "Fenoxaprop-P-Ethyl 7.77% + Metribuzin 13.6% EC",
+  "image": "/products/p122.webp",
+  "description": "Abox is an Agriwell herbicide based on Fenoxaprop-P-Ethyl 7.77% + Metribuzin 13.6% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 35 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Fenoxaprop-P-Ethyl 7.77% + Metribuzin 13.6% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "35 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "widles",
+  "no": 123,
+  "name": "Widles",
+  "category": "Herbicides",
+  "tagline": "Glufosinate Ammonium 13.5% SL",
+  "image": "/products/p123.webp",
+  "description": "Widles is an Agriwell herbicide based on Glufosinate Ammonium 13.5% SL, supplied as a soluble liquid (SL). Recommended dose: 100 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Glufosinate Ammonium 13.5% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "100 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "acrocel",
+  "no": 124,
+  "name": "Acrocel",
+  "category": "Herbicides",
+  "tagline": "Glyphosate 41% SL",
+  "image": "/products/p124.webp",
+  "description": "Acrocel is an Agriwell herbicide based on Glyphosate 41% SL, supplied as a soluble liquid (SL). Recommended dose: 80-100 ml / 15 L water. Pack sizes: 500 ml, 1 L, 5 L, 20 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Glyphosate 41% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "500 ml, 1 L, 5 L, 20 L"
+  },
+  "dosage": {
+   "Recommended dose": "80-100 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L",
+   "5 L",
+   "20 L"
+  ]
+ },
+ {
+  "id": "arroshoot",
+  "no": 125,
+  "name": "Arroshoot",
+  "category": "Herbicides",
+  "tagline": "Imazethapyr 10% SL",
+  "image": "/products/p125.webp",
+  "description": "Arroshoot is an Agriwell herbicide based on Imazethapyr 10% SL, supplied as a soluble liquid (SL). Recommended dose: 400 ml. Pack sizes: 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Imazethapyr 10% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "1 L"
+  },
+  "dosage": {
+   "Recommended dose": "400 ml"
+  },
+  "packs": [
+   "1 L"
+  ]
+ },
+ {
+  "id": "grass-les",
+  "no": 126,
+  "name": "Grass Les",
+  "category": "Herbicides",
+  "tagline": "Ipa Salt Of Glyphosate 54% SL",
+  "image": "/products/p126.webp",
+  "description": "Grass Les is an Agriwell herbicide based on Ipa Salt Of Glyphosate 54% SL, supplied as a soluble liquid (SL). Recommended dose: 90-100 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Ipa Salt Of Glyphosate 54% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "90-100 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "matrix",
+  "no": 127,
+  "name": "Matrix",
+  "category": "Herbicides",
+  "tagline": "Metribuzin 70% WP",
+  "image": "/products/p127.webp",
+  "description": "Matrix is an Agriwell herbicide based on Metribuzin 70% WP, supplied as a wettable powder (WP). Recommended dose: 25 g / 15 L water. Pack sizes: 100 g, 250 g, 500 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Metribuzin 70% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "100 g, 250 g, 500 g"
+  },
+  "dosage": {
+   "Recommended dose": "25 g / 15 L water"
+  },
+  "packs": [
+   "100 g",
+   "250 g",
+   "500 g"
+  ]
+ },
+ {
+  "id": "grip-top",
+  "no": 128,
+  "name": "Grip Top",
+  "category": "Herbicides",
+  "tagline": "Metsulfuron Methyl 20% WP",
+  "image": "/products/p128.webp",
+  "description": "Grip Top is an Agriwell herbicide based on Metsulfuron Methyl 20% WP, supplied as a wettable powder (WP). Recommended dose: 8 g. Pack sizes: 8 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Metsulfuron Methyl 20% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "8 g"
+  },
+  "dosage": {
+   "Recommended dose": "8 g"
+  },
+  "packs": [
+   "8 g"
+  ]
+ },
+ {
+  "id": "oxyil",
+  "no": 129,
+  "name": "Oxyil",
+  "category": "Herbicides",
+  "tagline": "Oxyfluorfen 23.52% EC",
+  "image": "/products/p129.webp",
+  "description": "Oxyil is an Agriwell herbicide based on Oxyfluorfen 23.52% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 10 ml / 15 L water. Pack sizes: 100 ml, 250 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Oxyfluorfen 23.52% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "100 ml, 250 ml"
+  },
+  "dosage": {
+   "Recommended dose": "10 ml / 15 L water"
+  },
+  "packs": [
+   "100 ml",
+   "250 ml"
+  ]
+ },
+ {
+  "id": "graamax",
+  "no": 130,
+  "name": "Graamax",
+  "category": "Herbicides",
+  "tagline": "Paraquat Dichloride 24% SL",
+  "image": "/products/p130.webp",
+  "description": "Graamax is an Agriwell herbicide based on Paraquat Dichloride 24% SL, supplied as a soluble liquid (SL). Recommended dose: 70-80 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Paraquat Dichloride 24% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "70-80 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "prontalin-30",
+  "no": 131,
+  "name": "Prontalin 30",
+  "category": "Herbicides",
+  "tagline": "Pendimethalin 30% EC",
+  "image": "/products/p131.webp",
+  "description": "Prontalin 30 is an Agriwell herbicide based on Pendimethalin 30% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 70-80 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Pendimethalin 30% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "70-80 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "prontalin-x-tra",
+  "no": 132,
+  "name": "Prontalin-X-Tra",
+  "category": "Herbicides",
+  "tagline": "Pendimethalin 38.7% CS",
+  "image": "/products/p132.webp",
+  "description": "Prontalin-X-Tra is an Agriwell herbicide based on Pendimethalin 38.7% CS, supplied as a capsule suspension (CS). Recommended dose: 700 ml / acre. Pack sizes: 400 ml, 700 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Pendimethalin 38.7% CS",
+   "Formulation": "Capsule Suspension (CS)",
+   "Pack sizes": "400 ml, 700 ml"
+  },
+  "dosage": {
+   "Recommended dose": "700 ml / acre"
+  },
+  "packs": [
+   "400 ml",
+   "700 ml"
+  ]
+ },
+ {
+  "id": "trackles",
+  "no": 133,
+  "name": "Trackles",
+  "category": "Herbicides",
+  "tagline": "Pendimethalin 30% + Imazethapyr 2% EC",
+  "image": "/products/p133.webp",
+  "description": "Trackles is an Agriwell herbicide based on Pendimethalin 30% + Imazethapyr 2% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 15-20 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Pendimethalin 30% + Imazethapyr 2% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15-20 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "dil-fit-50",
+  "no": 134,
+  "name": "Dil-Fit-50",
+  "category": "Herbicides",
+  "tagline": "Pretilachlor 50% EC",
+  "image": "/products/p134.webp",
+  "description": "Dil-Fit-50 is an Agriwell herbicide based on Pretilachlor 50% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 25 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Pretilachlor 50% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "dil-fit-30",
+  "no": 135,
+  "name": "Dil-Fit-30",
+  "category": "Herbicides",
+  "tagline": "Pretilachlor 30.7% EC",
+  "image": "/products/p135.webp",
+  "description": "Dil-Fit-30 is an Agriwell herbicide based on Pretilachlor 30.7% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Pretilachlor 30.7% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "ligasi",
+  "no": 136,
+  "name": "Ligasi",
+  "category": "Herbicides",
+  "tagline": "Pyrazosulfuron Ethyl 10% WP",
+  "image": "/products/p136.webp",
+  "description": "Ligasi is an Agriwell herbicide based on Pyrazosulfuron Ethyl 10% WP, supplied as a wettable powder (WP). Recommended dose: 20 g / 15 L water. Pack sizes: 80 g. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Pyrazosulfuron Ethyl 10% WP",
+   "Formulation": "Wettable Powder (WP)",
+   "Pack sizes": "80 g"
+  },
+  "dosage": {
+   "Recommended dose": "20 g / 15 L water"
+  },
+  "packs": [
+   "80 g"
+  ]
+ },
+ {
+  "id": "tagon-super",
+  "no": 137,
+  "name": "Tagon Super",
+  "category": "Herbicides",
+  "tagline": "Quizalofop Ethyl 10% EC",
+  "image": "/products/p137.webp",
+  "description": "Tagon Super is an Agriwell herbicide based on Quizalofop Ethyl 10% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 25 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Quizalofop Ethyl 10% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "hitachi",
+  "no": 138,
+  "name": "Hitachi",
+  "category": "Herbicides",
+  "tagline": "Quizalofop Ethyl 7.5% + Imazethapyr 15% EC",
+  "image": "/products/p138.webp",
+  "description": "Hitachi is an Agriwell herbicide based on Quizalofop Ethyl 7.5% + Imazethapyr 15% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 35 ml / 15 L water. Pack sizes: 175 ml, 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Quizalofop Ethyl 7.5% + Imazethapyr 15% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "175 ml, 250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "35 ml / 15 L water"
+  },
+  "packs": [
+   "175 ml",
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "crop-kil",
+  "no": 139,
+  "name": "Crop Kil",
+  "category": "Herbicides",
+  "tagline": "Quizalofop Ethyl 4% + Oxyfluorfen 6% EC",
+  "image": "/products/p139.webp",
+  "description": "Crop Kil is an Agriwell herbicide based on Quizalofop Ethyl 4% + Oxyfluorfen 6% EC, supplied as an emulsifiable concentrate (EC). Recommended dose: 30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Quizalofop Ethyl 4% + Oxyfluorfen 6% EC",
+   "Formulation": "Emulsifiable Concentrate (EC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "alldis",
+  "no": 140,
+  "name": "Alldis",
+  "category": "Herbicides",
+  "tagline": "Tembotrione 34.4% SC",
+  "image": "/products/p140.webp",
+  "description": "Alldis is an Agriwell herbicide based on Tembotrione 34.4% SC, supplied as a suspension concentrate (SC). Recommended dose: 115 ml / acre. Pack sizes: 57.5 ml, 115 ml, 230 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tembotrione 34.4% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "57.5 ml, 115 ml, 230 ml"
+  },
+  "dosage": {
+   "Recommended dose": "115 ml / acre"
+  },
+  "packs": [
+   "57.5 ml",
+   "115 ml",
+   "230 ml"
+  ]
+ },
+ {
+  "id": "wellcin-chlormequat",
+  "no": 141,
+  "name": "Wellcin",
+  "category": "Plant Growth Regulators",
+  "tagline": "Chlormequat Chloride 50% Sol",
+  "image": "/products/p141.webp",
+  "description": "Wellcin is an Agriwell plant growth regulator based on Chlormequat Chloride 50% Sol. Recommended dose: 25-30 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Chlormequat Chloride 50% Sol",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "25-30 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "telron",
+  "no": 142,
+  "name": "Telron",
+  "category": "Plant Growth Regulators",
+  "tagline": "Ethephon 39% SL",
+  "image": "/products/p142.webp",
+  "description": "Telron is an Agriwell plant growth regulator based on Ethephon 39% SL, supplied as a soluble liquid (SL). Recommended dose: 40 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Ethephon 39% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "40 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "abrogil",
+  "no": 143,
+  "name": "Abrogil",
+  "category": "Plant Growth Regulators",
+  "tagline": "Gibbrelic Acid 0.001% L",
+  "image": "/products/p143.webp",
+  "description": "Abrogil is an Agriwell plant growth regulator based on Gibbrelic Acid 0.001% L, supplied as a liquid (L). Recommended dose: 40 ml / 15 L water. Pack sizes: 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Gibbrelic Acid 0.001% L",
+   "Formulation": "Liquid (L)",
+   "Pack sizes": "500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "40 ml / 15 L water"
+  },
+  "packs": [
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "cultiwel",
+  "no": 144,
+  "name": "Cultiwel",
+  "category": "Plant Growth Regulators",
+  "tagline": "Paclobutrazole 23% SC",
+  "image": "/products/p144.webp",
+  "description": "Cultiwel is an Agriwell plant growth regulator based on Paclobutrazole 23% SC, supplied as a suspension concentrate (SC). Recommended dose: 5 ml / 15 L water. Pack sizes: 100 ml, 250 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Paclobutrazole 23% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "100 ml, 250 ml"
+  },
+  "dosage": {
+   "Recommended dose": "5 ml / 15 L water"
+  },
+  "packs": [
+   "100 ml",
+   "250 ml"
+  ]
+ },
+ {
+  "id": "alento",
+  "no": 145,
+  "name": "Alento",
+  "category": "Plant Growth Regulators",
+  "tagline": "Sodium Para Nitro Phenolate 0.3% SL",
+  "image": "/products/p145.webp",
+  "description": "Alento is an Agriwell plant growth regulator based on Sodium Para Nitro Phenolate 0.3% SL, supplied as a soluble liquid (SL). Recommended dose: 20 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Sodium Para Nitro Phenolate 0.3% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "weron",
+  "no": 146,
+  "name": "Weron",
+  "category": "Plant Growth Regulators",
+  "tagline": "Tricontanol 0.1% EW",
+  "image": "/products/p146.webp",
+  "description": "Weron is an Agriwell plant growth regulator based on Tricontanol 0.1% EW, supplied as an emulsion, oil in water (EW). Recommended dose: 40 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Tricontanol 0.1% EW",
+   "Formulation": "Emulsion, Oil in Water (EW)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "40 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "benefit",
+  "no": 147,
+  "name": "Benefit",
+  "category": "Bio-Stimulants",
+  "tagline": "Seaweed Extract Powder, NATCA, Sodium Naphthalene Acetic Acid, Triacontanol, Polymers Adjuvants & Base",
+  "image": "/products/p147.webp",
+  "description": "Benefit is an Agriwell bio-stimulant — seaweed Extract Powder, NATCA, Sodium Naphthalene Acetic Acid, Triacontanol, Polymers Adjuvants & Base. Recommended dose: 15-20 ml / 15 L water. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Seaweed Extract Powder, NATCA, Sodium Naphthalene Acetic Acid, Triacontanol, Polymers Adjuvants & Base",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "15-20 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "benefit-gold",
+  "no": 148,
+  "name": "Benefit Gold",
+  "category": "Bio-Stimulants",
+  "tagline": "Humic Acid, Amino Acid, Fulvic Acid, Seaweed Bioenzyme",
+  "image": "/products/p148.webp",
+  "description": "Benefit Gold is an Agriwell bio-stimulant — humic Acid, Amino Acid, Fulvic Acid, Seaweed Bioenzyme. Recommended dose: 15 ml. Pack sizes: 15 ml, 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Humic Acid, Amino Acid, Fulvic Acid, Seaweed Bioenzyme",
+   "Pack sizes": "15 ml, 250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15 ml"
+  },
+  "packs": [
+   "15 ml",
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "flo-fix",
+  "no": 149,
+  "name": "Flo Fix",
+  "category": "Plant Growth Regulators",
+  "tagline": "Alpha Naphthyl Acetic Acid 4.5% SL",
+  "image": "/products/p149.webp",
+  "description": "Flo Fix is an Agriwell plant growth regulator based on Alpha Naphthyl Acetic Acid 4.5% SL, supplied as a soluble liquid (SL). Recommended dose: 5 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Alpha Naphthyl Acetic Acid 4.5% SL",
+   "Formulation": "Soluble Liquid (SL)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "5 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "profit-plus",
+  "no": 150,
+  "name": "Profit Plus",
+  "category": "Bio-Stimulants",
+  "tagline": "Amino Acid And Vitamins Phyto Nutrients Amino Enzyme",
+  "image": "/products/p150.webp",
+  "description": "Profit Plus is an Agriwell bio-stimulant — amino Acid And Vitamins Phyto Nutrients Amino Enzyme. Recommended dose: 15 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Amino Acid And Vitamins Phyto Nutrients Amino Enzyme",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "15 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "profit",
+  "no": 151,
+  "name": "Profit",
+  "category": "Bio-Stimulants",
+  "tagline": "Alginic Acid & Protein Hydrolysate",
+  "image": "/products/p151.webp",
+  "description": "Profit is an Agriwell bio-stimulant — alginic Acid & Protein Hydrolysate. Recommended dose: 35 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Alginic Acid & Protein Hydrolysate",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "35 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "goodfix",
+  "no": 152,
+  "name": "Goodfix",
+  "category": "Adjuvants",
+  "tagline": "Silicon Spreader (Oil Based)",
+  "image": "/products/p152.webp",
+  "description": "Goodfix is an Agriwell spray adjuvant — silicon Spreader (Oil Based). Recommended dose: 5 ml / 15 L water. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Silicon Spreader (Oil Based)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "5 ml / 15 L water"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "culti-rock",
+  "no": 153,
+  "name": "Culti Rock",
+  "category": "Plant Growth Regulators",
+  "tagline": "Paclobutrazole 40% SC",
+  "image": "/products/p153.webp",
+  "description": "Culti Rock is an Agriwell plant growth regulator based on Paclobutrazole 40% SC, supplied as a suspension concentrate (SC). Recommended dose: 2 ml / 15 L water. Pack sizes: 15 ml, 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Paclobutrazole 40% SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "15 ml, 250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "2 ml / 15 L water"
+  },
+  "packs": [
+   "15 ml",
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ },
+ {
+  "id": "multi-kit",
+  "no": 154,
+  "name": "Multi Kit",
+  "category": "Crop Kits",
+  "tagline": "Premium blend of fungicide, bactericide, bio NPK bacteria & growth promoter",
+  "image": "/products/p154.webp",
+  "description": "Multi Kit is an Agriwell crop care kit — premium blend of fungicide, bactericide, bio NPK bacteria & growth promoter. Recommended dose: 1 kit / acre. Pack sizes: 1 kit. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Premium blend of fungicide, bactericide, bio NPK bacteria & growth promoter",
+   "Pack sizes": "1 kit"
+  },
+  "dosage": {
+   "Recommended dose": "1 kit / acre"
+  },
+  "packs": [
+   "1 kit"
+  ]
+ },
+ {
+  "id": "rootwell",
+  "no": 155,
+  "name": "Rootwell",
+  "category": "Bio-Stimulants",
+  "tagline": "A Premium Root Growth Enhancer",
+  "image": "/products/p155.webp",
+  "description": "Rootwell is an Agriwell bio-stimulant — a Premium Root Growth Enhancer. Recommended dose: 250 g / acre. Pack sizes: 250 g, 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "A Premium Root Growth Enhancer",
+   "Pack sizes": "250 g, 500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "250 g / acre"
+  },
+  "packs": [
+   "250 g",
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "fulbahar",
+  "no": 156,
+  "name": "Fulbahar",
+  "category": "Bio-Stimulants",
+  "tagline": "A Premium Flowering Stimulant",
+  "image": "/products/p156.webp",
+  "description": "Fulbahar is an Agriwell bio-stimulant — a Premium Flowering Stimulant. Recommended dose: 25-30 g / 15 L water. Pack sizes: 250 g, 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "A Premium Flowering Stimulant",
+   "Pack sizes": "250 g, 500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "25-30 g / 15 L water"
+  },
+  "packs": [
+   "250 g",
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "planto-fit-13-0-45",
+  "no": 157,
+  "name": "Planto Fit 13:0:45",
+  "category": "Water Soluble Fertilizers",
+  "tagline": "Potassium Nitrate (13:0:45)",
+  "image": "/products/p157.webp",
+  "description": "Planto Fit 13:0:45 is an Agriwell water-soluble fertilizer based on Potassium Nitrate (13:0:45). Recommended dose: 80-90 g / 15 L pump. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Potassium Nitrate (13:0:45)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "80-90 g / 15 L pump"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "planto-fit-12-61-0",
+  "no": 158,
+  "name": "Planto Fit 12:61:0",
+  "category": "Water Soluble Fertilizers",
+  "tagline": "Mono Ammonium Phosphate 12:61:0",
+  "image": "/products/p158.webp",
+  "description": "Planto Fit 12:61:0 is an Agriwell water-soluble fertilizer based on Mono Ammonium Phosphate 12:61:0. Recommended dose: 80-90 g / 15 L pump. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Mono Ammonium Phosphate 12:61:0",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "80-90 g / 15 L pump"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "planto-fit-0-52-34",
+  "no": 159,
+  "name": "Planto Fit 0:52:34",
+  "category": "Water Soluble Fertilizers",
+  "tagline": "Mono-Potassium Phosphate (0:52:34)",
+  "image": "/products/p159.webp",
+  "description": "Planto Fit 0:52:34 is an Agriwell water-soluble fertilizer based on Mono-Potassium Phosphate (0:52:34). Recommended dose: 80-90 g / 15 L pump. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Mono-Potassium Phosphate (0:52:34)",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "80-90 g / 15 L pump"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "planto-fit-13-40-13",
+  "no": 160,
+  "name": "Planto Fit 13:40:13",
+  "category": "Water Soluble Fertilizers",
+  "tagline": "N.P.K - 13:40:13",
+  "image": "/products/p160.webp",
+  "description": "Planto Fit 13:40:13 is an Agriwell water-soluble fertilizer based on N.P.K - 13:40:13. Recommended dose: 80-90 g / 15 L pump. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "N.P.K - 13:40:13",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "80-90 g / 15 L pump"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "planto-fit-19-19-19",
+  "no": 161,
+  "name": "Planto Fit 19:19:19",
+  "category": "Water Soluble Fertilizers",
+  "tagline": "N.P.K - 19:19:19",
+  "image": "/products/p161.webp",
+  "description": "Planto Fit 19:19:19 is an Agriwell water-soluble fertilizer based on N.P.K - 19:19:19. Recommended dose: 80-90 g / 15 L pump. Pack sizes: 500 g, 1 kg. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "N.P.K - 19:19:19",
+   "Pack sizes": "500 g, 1 kg"
+  },
+  "dosage": {
+   "Recommended dose": "80-90 g / 15 L pump"
+  },
+  "packs": [
+   "500 g",
+   "1 kg"
+  ]
+ },
+ {
+  "id": "fungira",
+  "no": 162,
+  "name": "Fungira",
+  "category": "Fungicides",
+  "tagline": "A Blend of Natural Oil Extract",
+  "image": "/products/p162.webp",
+  "description": "Fungira is an Agriwell fungicide — a Blend of Natural Oil Extract. Recommended dose: 15-20 ml / 15 L pump. Pack sizes: 250 ml, 500 ml. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "A Blend of Natural Oil Extract",
+   "Pack sizes": "250 ml, 500 ml"
+  },
+  "dosage": {
+   "Recommended dose": "15-20 ml / 15 L pump"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml"
+  ]
+ },
+ {
+  "id": "alient-hp",
+  "no": 163,
+  "name": "Alient HP",
+  "category": "Fungicides",
+  "tagline": "Picoxystrobin 22.52% w/w SC",
+  "image": "/products/p163.webp",
+  "description": "Alient HP is an Agriwell fungicide based on Picoxystrobin 22.52% w/w SC, supplied as a suspension concentrate (SC). Recommended dose: 12-15 ml / 15 L pump. Pack sizes: 250 ml, 500 ml, 1 L. Always read the label and follow local agronomic advice before use.",
+  "specifications": {
+   "Technical name": "Picoxystrobin 22.52% w/w SC",
+   "Formulation": "Suspension Concentrate (SC)",
+   "Pack sizes": "250 ml, 500 ml, 1 L"
+  },
+  "dosage": {
+   "Recommended dose": "12-15 ml / 15 L pump"
+  },
+  "packs": [
+   "250 ml",
+   "500 ml",
+   "1 L"
+  ]
+ }
+]
