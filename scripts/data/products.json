@@ -3312,7 +3312,8 @@
    "250 g",
    "500 g",
    "1 kg"
-  ]
+  ],
+  "isHero": true
  },
  {
   "id": "fulbahar",
@@ -3333,7 +3334,8 @@
    "250 g",
    "500 g",
    "1 kg"
-  ]
+  ],
+  "isHero": true
  },
  {
   "id": "planto-fit-13-0-45",

@@ -23,6 +23,8 @@ const productSchema = new mongoose.Schema(
     specifications: { type: Map, of: String },
     dosage: { type: Map, of: String },
     benefits: [benefitSchema],
+    // Hero products are highlighted on the website (homepage section, badges, listed first).
+    isHero: { type: Boolean, default: false },
   },
   { timestamps: true, toJSON: { flattenMaps: true }, toObject: { flattenMaps: true } }
 );
@@ -39,5 +41,6 @@ productSchema.pre("validate", function ensureCode(next) {
 });
 
 productSchema.index({ category: 1 });
+productSchema.index({ isHero: 1 });
 
 module.exports = mongoose.model("Product", productSchema);

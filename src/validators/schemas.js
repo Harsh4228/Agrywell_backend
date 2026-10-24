@@ -29,7 +29,11 @@ const product = z.object({
     .max(20)
     .default([])
     .transform((items) => items.filter((b) => b.title)),
+  // Optional so older clients that don't send it never switch a hero product off by accident.
+  isHero: z.boolean().optional(),
 });
+
+const heroToggle = z.object({ isHero: z.boolean() });
 
 const upcomingProduct = z.object({
   name: requiredText(120),
@@ -116,6 +120,7 @@ const inquiryUpdate = z.object({ read: z.boolean() });
 
 module.exports = {
   product,
+  heroToggle,
   upcomingProduct,
   facility,
   cropSolution,

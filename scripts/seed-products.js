@@ -37,6 +37,8 @@ async function main() {
           specifications: p.specifications,
           dosage: p.dosage,
         },
+        // Only for new products: the hero flag is managed from the admin dashboard afterwards.
+        $setOnInsert: { isHero: Boolean(p.isHero) },
       },
       upsert: true,
     },

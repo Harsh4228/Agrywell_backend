@@ -48,7 +48,10 @@ router.put("/auth/password", requireAuth, validateBody(schemas.changePassword), 
 router.post("/auth/logout-all", requireAuth, auth.logoutAll);
 
 // Content resources
-resource("/products", crudFactory(Product, { label: "Product" }), schemas.product);
+const products = crudFactory(Product, { label: "Product" });
+// Quick on/off switch for the "hero product" highlight, used by the admin product table.
+router.patch("/products/:id/hero", requireAuth, id, validateBody(schemas.heroToggle), products.update);
+resource("/products", products, schemas.product);
 resource("/upcoming-products", crudFactory(UpcomingProduct, { label: "Upcoming product" }), schemas.upcomingProduct);
 resource("/facilities", crudFactory(Facility, { label: "Facility" }), schemas.facility);
 resource("/crop-solutions", crudFactory(CropSolution, { label: "Crop solution", sort: { name: 1 } }), schemas.cropSolution);
